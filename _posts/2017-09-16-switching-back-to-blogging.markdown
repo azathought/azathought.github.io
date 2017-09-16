@@ -12,7 +12,6 @@ Unless you make a concious effort, we all have public web presence and, aside fr
 
 I severely reduced my input on network sites in 2017 to take a break from the echo chamber.  This is an effort to find my voice.  Being able to be myself on the web is an extreme privilege and something pretty easy to abuse.  My goal is to adhere to the folowing here:
 
-![I and My friends]({{site.baseurl}}/assets/img/posts/20170916-moai.jpg)
 
 * Keep it positive
 * Have pride in the things I create and share
