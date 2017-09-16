@@ -4,7 +4,14 @@
 <body>
 
   <div class="wrapper">
-    {{ content }}
+
+
+	  <aside class="sidebar">
+	  	{% include sidebar.html %}
+		  
+	  </aside> <!-- End Sidebar -->
+
+      {{ content }}
   </div>
   
   {% include analytics.html %}

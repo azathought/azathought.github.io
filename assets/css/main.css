@@ -1249,7 +1249,7 @@ footer .copyright {
   opacity: .8;
 }
 
-.pagination a.tag {
+.pagination a.tag, .navigation a.tag {
   text-decoration: none;
   font-size: 10px;
   padding: 5px 10px;
@@ -1259,7 +1259,7 @@ footer .copyright {
   border: 1px solid #263959;
 }
 
-.pagination a.tag:hover  {
+.pagination a.tag:hover, .navigation a.tag:hover  {
   text-decoration: underline;
 }
 

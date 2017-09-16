@@ -14,7 +14,7 @@ instagram: azathought
 tumblr: azathought
 
 # paging
-paginate: 10
+paginate: 8
 paginate_path: "/blog/page:num/"
 
 

@@ -14,7 +14,7 @@ layout: main
     <p>{{ post.content | strip_html | truncatewords: 15 }}</p>
     <span class="post-date">{{post.date | date: '%b %d, %Y'}}</span>&nbsp;&nbsp;- Tags:&nbsp;
     {% for tag in post.tags %}
-        <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">{{ tag }}</a>&nbsp;
+        <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">&#35; {{ tag }}</a>&nbsp;
     {% endfor %}
   </div>
 </article>
@@ -28,11 +28,10 @@ layout: main
       <a href="{{ paginator.previous_page_path }}" class="tag">Previous</a>
     {% else %}
     {% endif %}
-    
+    &nbsp;&nbsp;
     {% if paginator.next_page %}
       <a href="{{ paginator.next_page_path }}" class="tag">Next</a>
     {% else %}
-      <span class="next ">Next</span>
     {% endif %}
   </div>
 </div>
