@@ -4,7 +4,7 @@ title: Switching Back to Blogging
 date: 2017-09-16 00:00:00 -0500
 description: Restarting the blog
 img: posts/20170916-moai.jpg # Add image post (optional)
-tags: [blog, social_networks]
+tags: [blogging, social_networks]
 published: true
 ---
 

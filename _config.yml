@@ -28,4 +28,4 @@ markdown: kramdown
 plugins:
   - jekyll-sitemap
 
-exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "tumblr_files"]
