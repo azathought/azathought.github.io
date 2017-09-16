@@ -1,0 +1,30 @@
+title: Azathought
+description: >  
+  Awesome, geeky things.  
+permalink: ':title/'
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.azathought.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Author Settings
+author: Azathought # add your name
+author-img: caricature.png # add your photo
+about-author: A geek in Washington, DC. # add description
+twitter: azathought # add your Twitter handle
+instagram: azathought
+
+##github: # add your Github handle
+##linkedin: # add your Linkedin handle
+##email: # add your Email address
+
+# Disqus
+discus-identifier: azathought
+
+# Tracker
+analytics: UA-13117692-1 # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
