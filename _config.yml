@@ -13,9 +13,10 @@ twitter: azathought # add your Twitter handle
 instagram: azathought
 tumblr: azathought
 
-##github: # add your Github handle
-##linkedin: # add your Linkedin handle
-##email: # add your Email address
+# paging
+paginate: 10
+paginate_path: "/blog/page:num/"
+
 
 # Disqus
 discus-identifier: azathought
@@ -27,5 +28,7 @@ analytics: UA-13117692-1 # Google Analytics
 markdown: kramdown
 plugins:
   - jekyll-sitemap
+
+gems: [jekyll-paginate]
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "tumblr_files"]

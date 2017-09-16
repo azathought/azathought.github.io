@@ -1249,6 +1249,34 @@ footer .copyright {
   opacity: .8;
 }
 
+.pagination a.tag {
+  text-decoration: none;
+  font-size: 10px;
+  padding: 5px 10px;
+  margin-left: 5px;
+  color: #263959;
+  text-transform: uppercase;
+  border: 1px solid #263959;
+}
+
+.pagination a.tag:hover  {
+  text-decoration: underline;
+}
+
+.post-content a.tag {
+  text-decoration: none;
+  font-size: 10px;
+  padding: 5px 10px;
+  margin-left: 5px;
+  color: #263959;
+  text-transform: uppercase;
+  border: 1px solid #263959;
+}
+
+.post-content a.tag:hover  {
+  text-decoration: underline;
+}
+
 /* - - - - - - - - - - Media Styles - - - - - - - - - - */
 /* Medium Devices, Desktops */
 @media only screen and (max-width: 992px) {
@@ -1336,6 +1364,13 @@ footer .copyright {
   .contact-title, .copyright {
     display: none;
   }
+}
+
+.pagination {
+  width: 100%;
+  text-align: center;
+  position: relative;
+  display: block;
 }
 
 /* Extra Small Devices, Phones */
