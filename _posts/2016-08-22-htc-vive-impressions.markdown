@@ -4,7 +4,7 @@ title: HTC Vive impressions
 date: 2016-08-22 00:00:00 -0500
 description: Impressions of the HTC Vive
 img: tumblr/tumblr_occcklX8Gq1qb96uto1_1280.jpg
-tags: [video_games, vr, review]
+tags: [video_games, vr, reviews]
 published: true
 ---
 

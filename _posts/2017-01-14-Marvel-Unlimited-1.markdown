@@ -4,7 +4,7 @@ title: Marvel Unlimited - 3 months in
 date: 2017-01-14 00:00:00 -0500
 description: Review of Marvel Comics unlimited comics service
 img: posts/2017-01-14-marvel-wolv.png
-tags: [review, comics]
+tags: [reviews, comics]
 published: true
 ---
 
