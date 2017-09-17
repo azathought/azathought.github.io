@@ -8,9 +8,9 @@ tags: []
 published: true
 ---
 
-Unless you make a conscious effort, we all have public web presence and, aside from having a work related tech blog, I've existed for the last ten years on platforms provided by large social media providers.  The encroaching impact on one's identity when self expression is gated by sharing and privacy settings of Livejournal, Twitter, Tumblr, Facbook, Instagram, and others is slow and hard to see; however, twelve years in it is noticeable.
+Unless you make a conscious effort you too have a public web presence. Aside from having a work related tech blog, I've existed for the last twelve years on platforms provided by large social media providers.  The encroaching impact on one's identity when self expression is gated by sharing and privacy settings of Livejournal, Twitter, Tumblr, Facbook, Instagram, and others is slow and hard to see; however, twelve years later the affect is noticeable.
 
-I severely reduced my input on network sites in 2017 to take a break from the echo chamber.  This is an effort to find my voice.  Being able to be myself on the web is an extreme privilege and something pretty easy to abuse.  My goal is to adhere to the following here:
+I severely reduced my input on network sites in 2017 to take a break from the echo chamber.  This blog is an effort to find my voice.  Being able to be myself on the web is an extreme privilege and something pretty easy to abuse.  My goal is to adhere to the following here:
 
 * Keep it positive
 * Have pride in the things I create and share
