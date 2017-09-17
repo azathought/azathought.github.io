@@ -29,6 +29,8 @@ markdown: kramdown
 plugins:
   - jekyll-sitemap
 
-gems: [jekyll-paginate]
+gems: 
+  - jekyll-paginate
+  - jekyll-feed
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "tumblr_files"]
