@@ -12,13 +12,13 @@ I learned how to draw, and as a result how to draw women, almost entirely from S
 
 ## Squirrel Girl
 
-![Squirrel Girl]({{site.baseurl}}/assets/img/tumblr/tumblr_ou9yyndW6O1qb96uto1_1280.jpg)
+{% include image.html url="tumblr/tumblr_ou9yyndW6O1qb96uto1_1280.jpg" description="Squirrel Girl" caption="Squirrel Girl" %}
 
 This turned out well.  It's not as dynamic as the original, but I think I got the awesomess of the character across.
 
 ## Doctor Aphra
 
-![Doctor Aphra]({{site.baseurl}}/assets/img/tumblr/tumblr_oulapvm3qO1qb96uto1_1280.jpg)
+{% include image.html url="tumblr/tumblr_oulapvm3qO1qb96uto1_1280.jpg" description="Doctor Aphra" caption="Doctor Aphra" %}
 
 This character, a favorite from the new Darth Vader comic and now with her own solo run, is tougher.  In Vader, she was very well written despite having a cliche "evil Han Solo" role and often being drawn for the male gaze.  I like how it turned out, but a poor attempt at foreshortening makes her build look all wrong. Aphra is shorter and the scrolling on this website doesn't help in several ways compared to what I was going for.
 

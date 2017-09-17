@@ -1098,6 +1098,19 @@ footer .copyright {
   margin-top: 0;
 }
 
+.post-image {
+  text-align: center;
+  width: 100%;
+  position: relative;
+  display: block;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.post-image img {
+  max-height: 800px;
+}
+
 /* - - - - - - - - - - Post Page Styles - - - - - - - - - - */
 .wrap-content {
   padding: 20px;
