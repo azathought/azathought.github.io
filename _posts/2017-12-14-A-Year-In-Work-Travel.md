@@ -4,7 +4,7 @@ title: A year in Work Travel
 date: 2017-12-14 00:00:00 -0500
 description: 2017 saw a lot of time on planes
 img: posts/2017-12-14-travel.jpg
-tags: [travel, work]
+tags: [travel, work, infographic]
 published: true
 comments: true
 ---
