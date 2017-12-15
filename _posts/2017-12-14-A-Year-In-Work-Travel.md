@@ -12,7 +12,7 @@ comments: true
 I have one more flight in me this year, headed to Los Angeles to see my family for Christmas.  It's been a long year of much work travel, enought to break into the gold status level of an airline for the first time.  I used a website called jetitup.com which can connect to my tripit account to generate some nice visualizations and informatics around that travel. 
 
 
-{% include image.html url="posts/2017-12-14-travel3.jpg" description="Stats" caption="Stats" %}
+{% include image.html url="posts/2017-12-14-travel2.jpg" description="Stats" caption="Stats" %}
 
 
 {% include image.html url="posts/2017-12-14-travel3.jpg" description="More Stats" caption="Even More Stats" %}
