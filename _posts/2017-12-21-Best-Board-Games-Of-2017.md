@@ -5,7 +5,7 @@ date: 2017-12-21 00:00:00 -0500
 description: Quick reviews of my favorite board game experiences this year
 img: posts/2017-12-21-cover.jpg
 tags: [board_games, reviews]
-published: false
+published: true
 comments: true
 ---
 
