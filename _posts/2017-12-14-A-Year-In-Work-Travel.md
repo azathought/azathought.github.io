@@ -21,13 +21,13 @@ I have one more flight in me this year, headed to Los Angeles to see my family f
 ![SF](/assets/img/posts/2017-12-14-travel-insta1.jpg)
 ![San Antonio](/assets/img/posts/2017-12-14-travel-insta2.jpg)
 ![Tahoe](/assets/img/posts/2017-12-14-travel-insta3.jpg)
-![Tahoe](/assets/img/posts/2017-12-14-travel-insta4.jpg)
-![Tahoe](/assets/img/posts/2017-12-14-travel-insta5.jpg)
-![Tahoe](/assets/img/posts/2017-12-14-travel-insta6.jpg)
-![Tahoe](/assets/img/posts/2017-12-14-travel-insta7.jpg)
-![Tahoe](/assets/img/posts/2017-12-14-travel-insta8.jpg)
-![Tahoe](/assets/img/posts/2017-12-14-travel-insta9.jpg)
+![NYC](/assets/img/posts/2017-12-14-travel-insta4.jpg)
+![Ft Lauderdale](/assets/img/posts/2017-12-14-travel-insta5.jpg)
+![Amsterdam](/assets/img/posts/2017-12-14-travel-insta6.jpg)
+![Norfolk](/assets/img/posts/2017-12-14-travel-insta7.jpg)
+![Boston](/assets/img/posts/2017-12-14-travel-insta8.jpg)
+![Seattle](/assets/img/posts/2017-12-14-travel-insta9.jpg)
 
-{% include image.html url="posts/2017-12-14-travel-insta10.jpg" description="Flight Map" caption="A great year, with some non-work travel mixed in there too" %}
+{% include image.html url="posts/2017-12-14-travel-insta10.jpg" description="France" caption="A great year, with some non-work travel mixed in there too" %}
 
 {% include image.html url="posts/2017-12-14-travel.jpg" description="Flight Map" caption="A surprising amount of Europe this year (including some fun travel)" %}
