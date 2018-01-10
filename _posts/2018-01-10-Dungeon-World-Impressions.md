@@ -21,7 +21,7 @@ At this point in my time as a GM, this mismatched expectation is probably due to
 
 ## Enter Dungeon World and the Long Tail
 
-Dungeon World was written in 2012 by [Adam Koebel](http://www.adam-koebel.com/) and [Sage LaTorra](http://www.latorra.org/), who were both adopting a Dungeons & Dragons-like experience to the "Powered by the Apocalypse" engine.  The writer of Apocalypse World did the RPG equivalent of open sourcing their engine, allowing a [cottage industry of descendent games](http://apocalypse-world.com/pbta/) to pop up across a wide range of genres.  Rather than just inject some PbtA concepts into their D&D they found that a full rewrite was necessary.  Koebel describes his thoughts on game design in [his commentary on Burning wheel](https://www.youtube.com/watch?v=E79DDGdX62I&t=5m35s).  Summarized briefly, a game should know and present the following:
+Dungeon World was written in 2012 by [Adam Koebel](http://www.adam-koebel.com/) and [Sage LaTorra](http://www.latorra.org/), who were both adapting a Dungeons & Dragons-like experience to the "Powered by the Apocalypse" engine.  The writer of Apocalypse World did the RPG equivalent of open sourcing their engine, allowing a [cottage industry of descendent games](http://apocalypse-world.com/pbta/) to pop up across a wide range of genres.  Rather than just inject some PbtA concepts into their D&D they found that a full rewrite was necessary.  Koebel describes his thoughts on game design in [his commentary on Burning wheel](https://www.youtube.com/watch?v=E79DDGdX62I&t=5m35s).  Summarized briefly, a game should know and present the following:
 
 1. **what** the game is about
 2. **how** the game is about that above thing
