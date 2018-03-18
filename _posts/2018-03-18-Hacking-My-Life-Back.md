@@ -10,6 +10,7 @@ comments: true
 ---
 I love my job, but that's the problem.  Work presents challenges, progress, and results that I can clearly see as a result of my own efforts. It can quickly turn into a [progress quest](https://en.wikipedia.org/wiki/Progress_Quest) and that is counter productive to having a balanced life.
 
+
 Here's a concrete example of the impact.  I define being home for a week as sleeping in my own bed 7 nights a week. This is a lot more conservative of a definition than when I was in professional services and would often spend Monday through Friday away at a customer site, but my impact is no longer measured in billable hours and I am no longer single so this feels more appropriate. By this definition, I was home 20 out of 52 weeks in 2017.  23 weeks involved work travel.  
 
 Rather than setting a numeric goal, or specifying a drastic lifestyle or dietary change this new year, I set out to just make progress on the parts of my life other than work.  
