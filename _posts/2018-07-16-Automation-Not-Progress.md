@@ -1,10 +1,13 @@
 ---
 layout: post
 title: Automation but no progress
-date: 2018-07-16 00:00:00 -0500
+date: '2018-07-16 00:00:00 -0500'
 description: Still trying to get it together
 img: posts/2018-01-31-life1.jpg
-tags: [journal, work, life]
+tags:
+  - journal
+  - work
+  - life
 published: false
 comments: true
 ---
@@ -17,8 +20,6 @@ Image script
 
 More text
 
-| quoted text
+> quoted text
 
 and something else
-
-
