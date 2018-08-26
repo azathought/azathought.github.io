@@ -13,7 +13,7 @@ comments: true
 ---
 
 
-I've been travellingn for work too much. So much that when I return home my cat actually misses me.  I know because my cat actively displays affection for the shoes I wore while travelling when I get back.  I started riding a DIY Peloton this year and I broke even compared to the cost of my next best option after only 17 rides.
+I've been travelling for work too much. So much that when I return home my cat actually misses me.  I know because my cat actively displays affection for the shoes I wore while travelling when I get back.  I started riding a DIY Peloton this year and I broke even compared to the cost of my next best option after only 17 rides.
 
 {% include image.html url="posts/2018-08-25-diy1.jpg" description="Starbuck missed me" caption="Starbuck missed me" %} 
 
