@@ -87,3 +87,7 @@ So six months in, my DIY bike has become less expensive than my rediculous Soul 
 Once per week riding has the DIY option matching a transport cost free $30 per rice Soul Cycle option by December (10 months in).  To match the cost effectiveness of a transport free Soul Cycle I'd have to do 104 rides on a Peloton which is averaging 2 rides per week in 12 months.
 
 Of course the home bikes, if I can make them a habit past 12 months will continue to grow more cost effective until I have to replace or repair the bikes.  All in all not a bad deal for those who place an extreme value on time and have my need of removing all obstacles to exercise.
+
+{% include image.html url="posts/2018-08-25-diy5.jpg" description="Daily exercise minutes trending" caption="Daily exercise minutes trending" %}
+
+So far it's working.  My daily exercise average since March is up to 34 minutes vs 26 minutes for 2017 and 27 minutes for 2019.  I'm burning about 100 more calories a day on average than 
