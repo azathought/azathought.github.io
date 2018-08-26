@@ -13,7 +13,7 @@ comments: true
 ---
 
 
-I've been travelling for work too much. I've been away from home enough to enough that when I return home my cat actually misses me.  I know because she actively displays affection towards the shoes I wore when I get back.  I started riding a DIY Peloton this year, which was an expensive purchase.  Six months I wanted to compare the cost to the alternatives for some perspective on whether it was woth it.
+I've been travelling for work too much. I've been away from home enough to enough that when I return home my cat actually misses me.  I know because she actively displays affection towards the shoes I wore when I get back.  I started riding a DIY Peloton this year, which was an expensive purchase.  Six months into the purchase, I want to compare the cost to the alternatives for some perspective on whether it was worth it.
 
 {% include image.html url="posts/2018-08-25-diy1.jpg" description="Starbuck missed me" caption="Starbuck missed me" %} 
 
