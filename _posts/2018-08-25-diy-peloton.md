@@ -76,9 +76,9 @@ Effective cost per ride (CpR) of the two Peloton options is computed by taking t
 Following my prediction, I rode the DIY Peloton frequently for the remainder of the cold months and then had summer interrupted by good whether causing me to get out running and cycling as well as some work travel.  6 months in, I've only taken 17 Peloton classes.  Using the above method the current effective cost per ride of the three options were I to walk away now comes out to:
 
 * Peloton: $164
-* DIY Peloton: 50.52
+* DIY Peloton: $50.52
 * DIY Peloton (new pricing):  $52.58
-* Soul Cycle + luxury transport: 53.00
+* Soul Cycle + luxury transport: $53.00
 
 So six months in, my DIY bike has become less expensive than my rediculous Soul Cycle option. Here's the "over time" view of progress towards now and into my planned future.
 
