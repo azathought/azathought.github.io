@@ -13,11 +13,11 @@ comments: true
 ---
 
 
-I've been travelling for work too much. So much that when I return home my cat actually misses me.  I know because my cat actively displays affection for the shoes I wore while travelling when I get back.  I started riding a DIY Peloton this year and I broke even compared to the cost of my next best option after only 17 rides.
+I've been travelling for work too much. I've been away from home enough to enough that when I return home my cat actually misses me.  I know because she actively displays affection towards the shoes I wore when I get back.  I started riding a DIY Peloton this year, which was an expensive purchase.  Six months I wanted to compare the cost to the alternatives for some perspective on whether it was woth it.
 
 {% include image.html url="posts/2018-08-25-diy1.jpg" description="Starbuck missed me" caption="Starbuck missed me" %} 
 
-One of my goals this year is to be more active as past attempts to be disciplined about my exercise routine have failed.  When deciding how to attack my goal stop my sedentary lifestyle, I listed out the main reasons for past failure: 
+One of my goals this year is to be more active. My past attempts to be disciplined about my exercise routine have failed miserably.  When deciding how to attack my goal stop this travel and computer induced sedentary lifestyle, I listed out the main reasons for past failure: 
 
 * Outdoor exercise like cycling is great, but the weather in Washington DC tends to break all good habits during the winter months.
 * Having practically grown up in a martial arts studio, indoor exercise bores me quickly without a good instructor.
