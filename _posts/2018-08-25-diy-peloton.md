@@ -13,13 +13,15 @@ comments: true
 ---
 
 
-I've been travelling for work too much. I've been away from home enough to enough that when I return home my cat actually misses me.  I know because she actively displays affection towards the shoes I wore when I get back.  I started riding a DIY Peloton this year, which was an expensive purchase.  Six months into the purchase, I want to compare the cost to the alternatives for some perspective on whether it was worth it.
+I've been traveling for work too much. How do I know? I have been away from home enough that when I return home my cat actually misses me.  I know because she actively displays affection towards the shoes I wore when I get back.  
 
 {% include image.html url="posts/2018-08-25-diy1.jpg" description="Starbuck missed me" caption="Starbuck missed me" %} 
 
-One of my goals this year is to be more active. My past attempts to be disciplined about my exercise routine have failed miserably.  When deciding how to attack my goal stop this travel and computer induced sedentary lifestyle, I listed out the main reasons for past failure: 
+This year I started taking Peloton spin classes, which was an expensive decision.  Six months into the purchase, I want to compare the cost to the alternatives for some perspective on whether or not it was worth it.
 
-* Outdoor exercise like cycling is great, but the weather in Washington DC tends to break all good habits during the winter months.
+One of my goals this year is to be more active. My past attempts to be disciplined about my exercise routine have failed miserably.  When deciding how to attack my goal stop this travel and computer-induced sedentary lifestyle, I listed out the main reasons for past failure: 
+
+* Outdoor exercise is great, but the weather in Washington DC tends to break all good habits during the winter months.
 * Having practically grown up in a martial arts studio, indoor exercise bores me quickly without a good instructor.
 * My home is too small for a home gym but I know a dedicated space aides formation of routine.
 * My work can have unpredictable travel which disrupts routine.
@@ -43,7 +45,7 @@ Soul Cycle classes require no upfront investment but had a high per-class cost o
 
 * $2599.89 of equipment and accessories
 * $49.99 per month subscription
-* $0 transportation to gym
+* $0 transportation to a gym
 
 ## DIY Peloton
 
@@ -52,7 +54,7 @@ Soul Cycle classes require no upfront investment but had a high per-class cost o
 
 * $793.89 of equipment and accessories
 * $12.99 per month subscription
-* $0 transportation to gym
+* $0 transportation to a gym
 
 ## Soul Cycle with complete abandon
 
@@ -80,13 +82,13 @@ Following my prediction, I rode the DIY Peloton frequently for the remainder of 
 * DIY Peloton (new pricing):  $52.58
 * Soul Cycle + luxury transport: $53.00
 
-So six months in, my DIY bike has become less expensive than my rediculous Soul Cycle option. Here's the "over time" view of progress towards now and into my planned future.
+So six months in, my DIY bike has become less expensive than my ridiculous Soul Cycle option. Here's the "over time" view of progress towards now and into my planned future.
 
 {% include image.html url="posts/2018-08-25-diy4.jpg" description="Cost per ride" caption="Cost per ride" %} 
 
-Forecasting once per week riding into the future has the DIY option matching a transport cost free ($30 per ride) Soul Cycle option by December (10 months in).  To match the cost effectiveness of a transport free Soul Cycle I'd have to do 104 rides on an actual Peloton which is averaging 2 rides per week in 12 months.
+Forecasting once per week riding into the future has the DIY option matching a transport cost-free ($30 per ride) Soul Cycle option by December (10 months in).  To match the cost-effectiveness of a transport free Soul Cycle I'd have to do 104 rides on an actual Peloton which is averaging 2 rides per week in 12 months.
 
-Of course the home bike options, if I make them a habit past 12 months, will continue to grow more cost effective until I have to replace or repair the bikes.  All in all not a bad deal for those who place an extreme value on time and have my need of removing all obstacles to exercise.
+Of course, the home bike options, if I make them a habit past 12 months, will continue to grow more cost-effective until I have to replace or repair the bikes.  All in all not a bad deal for those who place an extreme value on time and have my need of removing all obstacles to exercise.
 
 # Results
 
