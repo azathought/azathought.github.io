@@ -7,7 +7,7 @@ img: posts/2018-08-25-diy2.jpg
 tags:
   - peloton
   - diy
-  - analysis
+  - journal
 published: true
 comments: true
 ---
@@ -90,4 +90,4 @@ Of course the home bikes, if I can make them a habit past 12 months will continu
 
 {% include image.html url="posts/2018-08-25-diy5.jpg" description="Daily exercise minutes trending" caption="Daily exercise minutes trending" %}
 
-So far it's working.  My daily exercise average since March is up to 34 minutes vs 26 minutes for 2017 and 27 minutes for 2019.  I'm burning about 100 more calories a day on average than 
+So far it's working.  My daily exercise average since March is up to 34 minutes vs 26 minutes for 2017 and 27 minutes for 2019.  I'm burning about 100 more calories a day on average than before using the DIY Peloton to jumpstart some better habits.
