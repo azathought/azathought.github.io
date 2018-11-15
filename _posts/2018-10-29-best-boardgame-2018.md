@@ -11,7 +11,7 @@ comments: true
 
 Is it too early for best-of-2018 content?  Not when you look at my December calender it isn't.  Tell you what, If I find a real gem in the next handfull of weeks I'll sneak it into contention for 2019.  Cool?  Cool.  
 
-This year I established a regular rhythm of having people over once a weekend to play games and as a result was able to try out interesting picks from websites like [Shut Up and Sit Down](https://www.shutupandsitdown.com/) and games friends would bring over.  Looking at this list, I'm realizing how big of an influencer SUASD is on what I take the time to play, so in 2019 I'm going to make an effort to branch out a bit for more exposure. One thing I did this year and plan to repeat was attending my first true board game convention, [Washingcon 2018](https://www.washingcon.com/), which I recommend as a great con for playing games.
+This year I established a regular rhythm of having people over once a month to play games and as a result was able to try out interesting picks from websites like [Shut Up and Sit Down](https://www.shutupandsitdown.com/) and games friends would bring over.  Looking at this list, I'm realizing how big of an influencer SUASD is on what I take the time to play, so in 2019 I'm going to make an effort to branch out a bit for more exposure. One thing I did this year and plan to repeat was attending my first true board game convention, [Washingcon 2018](https://www.washingcon.com/), which I recommend as a great con for playing games.
 
 Here they are, my favorite board gaming experiences of 2018:
 
