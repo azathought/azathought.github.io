@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Embracing Isometric play in Roll20
-date: 2018-11-13 00:00:00 -0500
+date: 2018-11-25 00:00:00 -0500
 description: Second anual board game round up
 img: posts/2018-11-11-iso1.jpg
 tags: [tabletop_rpg]
@@ -9,7 +9,7 @@ published: true
 comments: true
 ---
 
-After a long break, I'm running a D&D game with friends again. To cram the game into our busiy schedules and to cut down on travelling time we've decided to run the game online using a tool called Roll20, of which I am a happy Kickstarter backer.  We just finished our 4th weeknight session using the Roll20 app and I hope very much that we can keep it going because I am having a tons of fun.  
+After a long break, I'm running a D&D game with friends again. To cram the game into our busy schedules and to cut down on travelling time we've decided to run the game online using a tool called Roll20, of which I am a happy Kickstarter backer.  We just finished our 4th weeknight session using the Roll20 app and I hope very much that we can keep it going because I am having a tons of fun.  
 
 One thing that has always bugged me with Roll20, and most other virtual tabletop tools, is that they use an overhead view of the adventure map. This might have been common in 1990's video games, but ever since Baldur's Gate and Diablo it feels quite awkward to play a computer RPG of any kind with a top down view. Video Games switched for a reason: players sitting infront of a real life table look down at a board game at roughly a 45 degree downward angle. You can see more of the action! The monsters and heroes simply look more interesting from the side than from overhead. Taking up the challenge and inspired by some of the other games and projects I'm seeing out there, I've started to invest some hobby art time in prepping maps and minis to run my game in an alternate mode called isometric.  Here's what I've learned prepping assets a few games ahead for a game of Tomb of Annihilation, a printed adventure book make by the D&D publisher that involves a dinosaur and zombie infested jungle.
 
@@ -44,7 +44,7 @@ I remember to work in layers in my digital editor so that I can later go back an
 
 {% include image.html url="posts/2018-11-11-iso8.jpg" description="Epic Isometric" caption="Epic Isometric" %}
 
-A different option is to buy modular pre-made art assets. I can't recommend enough the "Epric Isometric" core set asset set from [Alex Drummond](http://www.alexdrummo.com/) which you can buy as [PNG files on DriveThruRPG](https://www.drivethrurpg.com/product/227980/Epic-Isometric-Digital-tabletop-core-set-Advanced) or as an [asset pack in the Roll20 store](https://marketplace.roll20.net/browse/set/2913/epic-isometric-core-set) (which can help you stay under your art asset limit in Roll20 as premium purchases don't count towards quota).  The big difference with this artist is that the assets can be customized fairly easily but also suggest a consistent style so that the game art can blend well together between the maps and miniatures.
+A different option is to buy modular pre-made art assets. I can't recommend enough the "Epic Isometric" core set asset set from [Alex Drummond](http://www.alexdrummo.com/) which you can buy as [PNG files on DriveThruRPG](https://www.drivethrurpg.com/product/227980/Epic-Isometric-Digital-tabletop-core-set-Advanced) or as an [asset pack in the Roll20 store](https://marketplace.roll20.net/browse/set/2913/epic-isometric-core-set) (which can help you stay under your art asset limit in Roll20 as premium purchases don't count towards quota).  The big differentiator for me with this Epric Isometric's approach is that the assets can be customized fairly easily but also suggest a consistent style so that the game art can blend well together between the maps and miniatures.
 
 [Drummo's patreon is equally Epic](https://www.patreon.com/epicisometric/posts) and grants access to new art and a Discord server where the community of people using the art share their maps and ideas.
 
@@ -64,7 +64,7 @@ I've bought the digital copy of the module maps for the Tomb of Annihilation set
 
 The hardest part so far has been deciding when to use a "close enough" monster mini from Epic Isometric, when to take art from digital D&D Monster Manual to cut and paste an accurate but off-style mini, or whether to just break out my tablet and draw my own. Sketching is super fun, but it's time intensive.  My fear is that my game will turn more into a single path "railroad" experience rather than a sandbox if my predictions of what encounters will occur for game prep start depriving the players of autonomy.  
 
-That doesn't mean it's not fun to draw these though. I'm using a $20ish Photoshop alternative called [Pixelmator](https://www.pixelmator.com/mac/), which has been very good, and a $29 utility app called [Astropad](https://astropad.com/) to turn my iPad Pro and Apple Pencil into the close equivalent of a Wacom screen / tablet.  I can't wait till the players run into these two.
+That doesn't mean it's not fun to draw these though. I'm using a $20ish Photoshop alternative called [Pixelmator](https://www.pixelmator.com/mac/), which has been very good, and a $29 utility app called [Astropad](https://astropad.com/) to turn my iPad Pro and Apple Pencil into the close equivalent of a Wacom screen / tablet.  I can't wait till the players run into these two beauties:
 
 {% include image.html url="posts/2018-11-11-iso-trex.png" description="Hand drawn T-Rex" caption="Hand drawn T-Rex" %}
 
