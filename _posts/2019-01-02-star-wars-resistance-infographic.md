@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Star Wars Resistance - New Recruit Infographic
-date: 2019-01-03 00:00:00 -0500
+date: 2019-01-02 00:00:00 -0500
 description: Dialog connecting characters in Star Wars cartoon
 img: posts/2019-01-02-star-wars-resistance-infographic.jpg
 tags: [infographic, star_wars, tv]
