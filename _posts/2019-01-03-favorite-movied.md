@@ -9,7 +9,7 @@ published: true
 comments: true
 ---
 
-I watched only a few movies in actual theaters this years, instead finding myself watching our non-golden era of cinema on air planes and streaming rentals.  As a result many of these came out in 2018.
+I watched only a few movies in actual theaters this years, instead finding myself watching our non-golden era of cinema on air planes and streaming rentals.  As a result many of these came out in 2017.
 
 [My list on Letterboxd](https://letterboxd.com/azathought/list/top-movies-i-watched-in-2018/detail/)
 
