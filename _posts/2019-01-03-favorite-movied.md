@@ -15,14 +15,14 @@ I watched only a few movies in actual theaters this years, instead finding mysel
 
 1. Coco
 2. LA 92
-3. The Hitmans Bodyguard
+3. The Hitman's Bodyguard
 4. Isle of Dogs
-5. Increadibles 2
+5. Incredibles 2
 6. I, Tonya
-7. Ant-man and the Wasp
+7. Ant-Man and the Wasp
 8. Bladerunner 2049
 9. The Disaster Artist
-10. Jumangi
+10. Jumangi: Welcome to the Jungle
 
 
 
