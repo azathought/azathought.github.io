@@ -21,7 +21,7 @@ Fast forward into adult life and I've written software engines to compute statis
 
 Last year, however, I was invited by a friend to join a local tabletop group for a game called DreaBall and it has been a frustrating, nervewracking, and fantastic time.  
 
-{% include image.html url="posts/2019-03-02-killers5.jpg" description="Painted team" caption="The game is party board game part craft hobby.  I painted a 'team' of players, pulling out some long unused hobby skills." %}
+{% include image.html url="posts/2019-03-02-killers5.jpg" description="Painted team" caption="The game is part board game part craft hobby.  I painted a 'team' of players, pulling out some long unused hobby skills." %}
 
 The game was described to me as, "Hockey meets Space Jam." Clearly derivative of turn-based sports games like Blood Bowl, Mantic created a hex-based spin-off of their tabletop sci-fi wargame setting.  The league I'm in has been playing since going all-in on the [original kickstarter](https://www.kickstarter.com/projects/1744629938/dreadball-the-futuristic-sports-game) circa 2012.
 
