@@ -80,4 +80,6 @@ I work a demanding job and often roll into League play with very little mental e
 
 Once one is past the mistakes, the high level of randomness of die rolls and exploding 6's can swing heavily swing the outcome of games. In a way, this helps to maintain a more approachable game where newbies like me are competing with veterans of 7 previous seasons; my first game win was against a prior champ and very much due to a streak of bad luck in my favor. This season, I still found my levels of fun too dictated by mistakes and the whims of random dice.
 
+The regular season of league play is over and I didn't make play offs.  I want to thank the league for the awesome time and welcoming a newb like me into the fold. 
+
 If I make any change to my play in the next season it will be to focus on fun.
