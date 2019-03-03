@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DreadBall - CORT Season 8
+title: DreadBall - League Season 8
 date: 2019-03-02 00:00:00 -0500
 description: A tabletop sports game in League Play 
 img: posts/2019-03-02-killers4.jpg
