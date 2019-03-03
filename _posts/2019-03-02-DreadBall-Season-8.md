@@ -40,12 +40,12 @@ As the replacement coach, backfilling a friend who moved out of state, I had fir
 |  Game 	|    vs   	| vs  Coach 	|     Result    	| Fan Cheers 	| Injuries Caused 	| Team  Rank 	| Cash  On  Hand 	| 2nd edition league Points 	| CORT  points 	|
 |:-----:	|:-------:	|:---------:	|:-------------:	|:----:	|:---:	|:----------:	|:--------------:	|:-------------------------:	|:------------:	|
 |   0   	|         	|           	|               	|      	|     	|     995    	|        0       	|                           	|              	|
-|   1   	|  Sharks 	|    Zak    	|      3-0      	|   7  	|  2  	|    1270    	|       10       	|             3             	|       3      	|
-|   2   	|  Yndij  	|   Jaime   	|      0-4      	|   9  	|  0  	|    1295    	|       60       	|             1             	|       0      	|
-|   3   	| Cyborgs 	|   Andrew  	|      0-1      	|  15  	|  1  	|    1485    	|       25       	|             1             	|       0      	|
-|   4   	|   Rebs  	|    Alex   	|      0-4      	|  20  	|  0  	|    1655    	|       35       	|             1             	|       0      	|
-|   5   	| Locusts 	|    Wes    	|      1-0      	|  23  	|  0  	|    1705    	|       135      	|             3             	|       3      	|
-| Total 	|         	|           	| 2 wins / 3 loss 	|  74  	|  3  	|            	|                	|             9             	|       6      	|
+|   1   	|  Sharks 	|    Zak    	|      3-0      	|   7  	|  2  	|    1270    	|       10       	|             3             	|       2      	|
+|   2   	|  Yndij  	|   Jaime   	|      0-4      	|   9  	|  0  	|    1295    	|       60       	|             1             	|       1      	|
+|   3   	| Cyborgs 	|   Andrew  	|      0-1      	|  15  	|  1  	|    1485    	|       25       	|             1             	|       1      	|
+|   4   	|   Rebs  	|    Alex   	|      0-4      	|  20  	|  0  	|    1655    	|       35       	|             1             	|       1      	|
+|   5   	| Locusts 	|    Wes    	|      1-0      	|  23  	|  0  	|    1705    	|       135      	|             3             	|       2      	|
+| Total 	|         	|           	| 2 wins / 3 loss 	|  74  	|  3  	|            	|                	|             9             	|       7      	|
 
 
 I ended my regular season one spot out of the playoffs.
