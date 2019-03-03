@@ -64,7 +64,10 @@ My roster after game 5:
 
 ## Rules I misunderstood
 
+* Not counting my fan checks before cleaning up
+* Counting fan check cards rather than pips
 * You can only reroll each die once
+* Evading under threat is -1
 * For some dumb reason 1 vs 0 successes is doubling
 
 ## Tactical mistakes I kept making
