@@ -15,9 +15,9 @@ I just finished playing my first season of [DreadBall](http://www.manticgames.co
 
 I am not a sports person. 
 
-I have many friends and coworkers who play in a fantasy sports leagues.  I've never been interested.  In elementary school I had to participate in both simulated stock market trading and fantasy baseball as class assignments and ever since receiving an F on that 4th grade math project because I computed a baseball "batting average" as a mathematical mean instead of a hit percentage, I wasn't too interested in the tabulatures and statistics of sports; much less tracking a sports team over a season.
+I have many friends and coworkers who play in fantasy sports leagues.  I've never been interested.  In elementary school I had to participate in both simulated stock market trading and fantasy baseball as class assignments and ever since receiving an F on that 4th grade math project because I computed a baseball "batting average" as a mathematical mean instead of a hit percentage, I wasn't too interested in the tabulatures and statistics of sports; much less tracking a sports team over a season.
 
-Fast forward into adult life and I've written software engines to compute statistics for international sports leagues and have been an official for Women's Roller Derby.  All that aside, to this day I still pass on the office fantasy football league, I don't bet on March Madness, and as a gamer I do not even play sports video games; the 2002 classic [Sega Soccer Slam](https://www.giantbomb.com/sega-soccer-slam/3030-17290/) for the X-Box being a rare exception.  
+Fast forward into adult life and I've written software engines to compute statistics for international sports leagues and have been an official for Women's Roller Derby.  All that aside, to this day I still pass on the office fantasy football league, I don't bet on March Madness, and as a gamer, I do not even play sports video games; the 2002 classic [Sega Soccer Slam](https://www.giantbomb.com/sega-soccer-slam/3030-17290/) for the X-Box being a rare exception.  
 
 Last year, however, I was invited by a friend to join a local tabletop group for a game called DreaBall and it has been a frustrating, nervewracking, and fantastic time.  
 
@@ -29,7 +29,7 @@ The game was described to me as, "Hockey meets Space Jam." Clearly derivative of
 
 The zany sci-fi theme of the game comes through strongly, which I appreciate.  The teams, Captains, and MVPs are full of genre tropes and inside jokes that, even if sometimes off-color, are a fun time.  Looking at you Yndij.
 
-The hex turn-based tactical movement and facing is more miniature tabletop fun than I've had since playing [BATTLETECH](http://battletechgame.com/) or [XCOM](https://www.giantbomb.com/xcom-enemy-unknown/3030-37152/) / [Final Fantasy Tactics](https://www.giantbomb.com/final-fantasy-tactics/3025-615/) stlye video games. Compared to the frenetic actions per minute (APM) athleticism of real-time strategy games, Dreadball is closer to chess where coaches need to think both offensively and defensively as they position six player miniatures across 14 alternating rushes of play.  
+The hex turn-based tactical movement and facing is more miniature tabletop fun than I've had since playing [BATTLETECH](http://battletechgame.com/) or [XCOM](https://www.giantbomb.com/xcom-enemy-unknown/3030-37152/) / [Final Fantasy Tactics](https://www.giantbomb.com/final-fantasy-tactics/3025-615/) style video games. Compared to the frenetic actions per minute (APM) athleticism of real-time strategy games, Dreadball is closer to chess where coaches need to think both offensively and defensively as they position six player miniatures across 14 alternating rushes of play.  
 
 The teams are reasonably well balanced and the miniatures are affordable relative to other games in the genre. All in, I spent less than $100 USD to play in multiple tournaments and a league.
 
@@ -37,15 +37,15 @@ The teams are reasonably well balanced and the miniatures are affordable relativ
 
 As the replacement coach, backfilling a friend who moved out of state, I had first pick of sci-fi themed teams.  I chose a slow but tough hitting "sumo lizard" team called the Matsudan.  I wanted to make sure that the strengths and special powers of the team were always in use rather than situationally dependent.  I played a good defensive game, taking each match to the full 14 rushes and never letting an opponent "7-point" me and invoke the mercy rule.
 
-|  Game 	|    vs   	| vs  Coach 	|     Result    	| Fan Cheers 	| Injuries Caused 	| Team  Rank 	| Cash  On  Hand 	| 2nd edition league Points 	| CORT  points 	|
-|:-----:	|:-------:	|:---------:	|:-------------:	|:----:	|:---:	|:----------:	|:--------------:	|:-------------------------:	|:------------:	|
-|   0   	|         	|           	|               	|      	|     	|     995    	|        0       	|                           	|              	|
-|   1   	|  Sharks 	|    Zak    	|      3-0      	|   7  	|  2  	|    1270    	|       10       	|             3             	|       2      	|
-|   2   	|  Yndij  	|   Jaime   	|      0-4      	|   9  	|  0  	|    1295    	|       60       	|             1             	|       1      	|
-|   3   	| Cyborgs 	|   Andrew  	|      0-1      	|  15  	|  1  	|    1485    	|       25       	|             1             	|       1      	|
-|   4   	|   Rebs  	|    Alex   	|      0-4      	|  20  	|  0  	|    1655    	|       35       	|             1             	|       1      	|
-|   5   	| Locusts 	|    Wes    	|      1-0      	|  23  	|  0  	|    1705    	|       135      	|             3             	|       2      	|
-| Total 	|         	|           	| 2 wins / 3 loss 	|  74  	|  3  	|            	|                	|             9             	|       7      	|
+|  Game     |    vs       | vs  Coach     |     Result        | Fan Cheers     | Injuries Caused     | Team  Rank     | Cash  On  Hand     | 2nd edition league Points     | CORT  points     |
+|:-----:    |:-------:    |:---------:    |:-------------:    |:----:    |:---:    |:----------:    |:--------------:    |:-------------------------:    |:------------:    |
+|   0       |             |               |                   |          |         |     995        |        0           |                               |                  |
+|   1       |  Sharks     |    Zak        |      3-0          |   7      |  2      |    1270        |       10           |             3                 |       2          |
+|   2       |  Yndij      |   Jaime       |      0-4          |   9      |  0      |    1295        |       60           |             1                 |       1          |
+|   3       | Cyborgs     |   Andrew      |      0-1          |  15      |  1      |    1485        |       25           |             1                 |       1          |
+|   4       |   Rebs      |    Alex       |      0-4          |  20      |  0      |    1655        |       35           |             1                 |       1          |
+|   5       | Locusts     |    Wes        |      1-0          |  23      |  0      |    1705        |       135          |             3                 |       2          |
+| Total     |             |               | 2 wins / 3 loss     |  74      |  3      |                |                    |             9                 |       7          |
 
 
 I ended my regular season one spot out of the playoffs.
@@ -83,6 +83,6 @@ I work a demanding job and often roll into League play with very little mental e
 
 Once one is past the mistakes, the high level of randomness of die rolls and exploding 6's can swing heavily swing the outcome of games. In a way, this helps to maintain a more approachable game where newbies like me are competing with veterans of 7 previous seasons; my first game win was against a prior champ and very much due to a streak of bad luck in my favor. This season, I still found my levels of fun too dictated by mistakes and the whims of random dice.
 
-The regular season of league play is over and I didn't make play offs.  I want to thank the league for the awesome time and welcoming a newb like me into the fold. 
+The regular season of league play is over and I didn't make playoffs.  I want to thank the league for the awesome time and welcoming a newb like me into the fold. 
 
 If I make any change to my play in the next season it will be to focus on fun.
