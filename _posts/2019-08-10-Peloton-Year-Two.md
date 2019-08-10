@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PelotonD Digital effective cost update
+title: Peloton Digital effective cost update
 date: '2019-08-10 00:00:00 -0500'
 description: Comparing luxury home spin options
 img: posts/2018-08-25-diy2.jpg
