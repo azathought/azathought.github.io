@@ -1,3 +1,4 @@
 _site
 tumblr_files
 .DS_Store
+.jekyll-cache
