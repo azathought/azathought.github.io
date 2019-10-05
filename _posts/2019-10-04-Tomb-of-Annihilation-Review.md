@@ -24,19 +24,23 @@ This is a review of the published adventure "Tomb of Annihilation" of the main W
 
 If you've come interested in my isometric conversion of the module, [check out my previous post on the subject last year](/embracing-isometric-roll20/).  The two most important tips are that you can convert top downmaps to isometric with a two-step transformation in a picture editor and that you should check out [Epic Isometric](https://www.patreon.com/epicisometric/overview) as a way to introduce a consistent visual style to your game.  As it's a derivative work of art and game assets from all over, I'll just say I made it intended for personal use. I encourage folks to support the hobby by buying art packs from artists like [Mike Schley](https://prints.mikeschley.com/p1010232766) and [Epic Isometric](https://www.patreon.com/epicisometric/overview).  The Roll20 and DndBeyond content packs for Tomb of Annihilation are both awesome.
 
-## Conclusion up Front
+## TL/DR my take up front
 
-This is my favorite published adventure so far in 5th edition. It has it's weaknesses, but the immersive setting and high adventure combined with easy customization make for a fun time for many varieties of gaming groups.
+This is my favorite published adventure so far in 5th edition. It has it's weaknesses, but the immersive setting and high adventure combined with easy customization make for a fun time for many varieties of gaming groups.  Read below for my pros, cons, and modifications for my table.
 
 ## Why I love this adventure
 
-### It has a series of sandbox maps to explore in a non-linear way
+### TOA is a series of non-linear sandbox stages
 
-The game is divided up into 5 chapters each representing a different non-linear section of the story.  Chapter 1 focuses on a port city that can be explored in any order.  Chapter 2 is large jungle map with dozens of games worth of content to explore.  Chapter 3 switches into a similar non-liear exploration of lost ruin with multiple factions racing to solve ... well I'm not there yet in my game so we'll keep the spoilers to the first two chapters.
+The game is divided up into 5 chapters each representing a different non-linear section of the story.  Chapter 1 focuses on a port city that can be explored in any order.  Chapter 2 is large jungle map with dozens of sittings worth of content to explore.  Chapter 3 switches into a similar non-liear exploration of lost ruin with multiple factions racing to solve ... well I'm not there yet in my game so we'll keep the spoilers to the first two chapters.
 
 ### Nostalgia with flexibility
 
-TOA is an homage to 1st edition D&D down to it's close namesake the [Tomb of Horrors](https://en.wikipedia.org/wiki/Tomb_of_Horrors), hexcrawl style open world exploration, and expectation of high player death.  There is even an optional rule for a "Meat Grinder" difficulty setting.  All of this tingles the current set of nostalgia of the old school revival without locking GMs out of any innovations or story driven possibilities of more modern games.  TOA is still flexible enough to suit most styles of play.  Surveys of dozens of games in Facebook groups of GMs running show a high variance of actual player death, which I see as a victory of flexibility to the preferred style of play for different groups.  I've been able to pick and choose ideas from these online communities of GMs running TOA and mix them in easily to the broad sandbox style without disrupting or distracting the flow of the game.  Here are a few great ideas inspired/taken from others (sources hard to direct link to)
+TOA is an homage to 1st edition D&D down to it's close namesake the [Tomb of Horrors](https://en.wikipedia.org/wiki/Tomb_of_Horrors), hexcrawl style open world exploration, and expectation of high player death.  There is even an optional rule for a "Meat Grinder" difficulty setting.  All of this tickles the current nostalgic desire for old school revival in RPGs without locking GMs out of any innovations or story driven possibilities of more modern games.  
+
+TOA is still flexible enough to suit most styles of play.  Surveys of dozens of games in Facebook groups of GMs running show a high variance of actual player death, which I see as a victory of flexibility to the preferred style of play for different groups.  I've been able to pick and choose ideas from these online communities of GMs running the module and mix them in easily to the broad sandbox style without disrupting or distracting the flow of the game.  Here are a few great ideas inspired/taken from others (sources hard to direct link to)
+
+{% include image.html url="posts/2019-10-04-toar-g21.jpg" description="Game 21" caption="Game 21: Fighting a Macawbear in Nangalore" %}
 
 * The dreaded Macawbear (it's an owl bear with macaw plumage)
 * The Aldani rap battle: From Facebook: the lobster people of the aldani basin only negotiate in rhyming rap duels
@@ -46,7 +50,7 @@ TOA is an homage to 1st edition D&D down to it's close namesake the [Tomb of Hor
 
 ### It has a great 'destination' setting
 
-The land of Chult is a peninsula south-west of the original "Sword Coast" location of Ed Greenwood Forgotten Realms setting. Forgotten Realms is often called "Kitchen Sink Fantasy," as it lacks focus preferring to make a place for every possible morsel of D&D content rather than doing fewer things and doing them well.  I remember when I was hesitant to run a game in the mid 90's when I thought the 10 year old setting had too much lore.  Twenty years later and that has only gotten worse.  The risk of having too much setting back story is that the focus of the game can quickly become about the setting and the NPCs rather than the players themselves and the adventures they are having, especially when some of the players have read the books or played the video games the share the world of the adventure module.
+The land of Chult is a peninsula south-west of the original "Sword Coast" location of Ed Greenwood Forgotten Realms setting. Forgotten Realms is often called "Kitchen Sink Fantasy," as it makes a place for every possible morsel of D&D content and high magic fantasy trope rather than doing fewer things and doing them well.  I remember when I was hesitant to run a game in the mid 90's because I thought the 10 year old setting had too much lore.  Twenty years later and that has only gotten worse.  The risk of having too much setting back story is that the focus of the game can quickly become about the setting and the NPCs rather than the players themselves and the adventures they are having, especially when some of the players have read the books or played the video games that share the world of the adventure module.
 
 By having the entire adventure take palce in the Dinosaur and Zombie infesed peninsula of Chult, players are removed from their preconceptions of standard Tolkien-ish medieval or proto-renaissance social structures without having to grapple with anything too disorienting.  Chult is high theme, backing up style with substance (Dinosaurs everywhere!). While part of the Forgotten Realms, Chult is a richer and more exciting setting than I'm used to from D&D adventure modules since the heyday of the 2nd edition setting explosion.  
 
@@ -62,7 +66,7 @@ Some of these are real weaknesses.  Making a published adventure is always diffi
 
 ### Like most published modules it has a weak start
 
-The hardest thing for a published adventure is to make a captivating start that will appeal to all possible permuations of groups and character motivations.  TOA starts with exposition about the death curse and an infected quest giver followed shortly by a teleportation to the only remaining civilized outpost in Chult.  The game introduces an somewhat empathetic character and a ticking clock of her demise to encourage forward motion in the story.  It works, but I highly recommend having the players tie their character backgrounds more firmly in self-written plot hooks to explain why they would dare risk it all on this quest.
+The hardest thing for a published adventure is to make a captivating start that will appeal to all possible permuations of groups and character motivations.  TOA starts with exposition about the death curse and an infected quest giver followed shortly by a teleportation to the only remaining civilized outpost in Chult.  The game introduces a somewhat empathetic character and the ticking clock of her demise to encourage forward motion in the story.  It works, but I highly recommend having the players tie their character backgrounds more firmly in self-written plot hooks to explain why they would dare risk it all on this quest.
 
 ### It's a mystery without good clues
 
@@ -76,18 +80,53 @@ Much like [Out of the Abyss](https://dnd.wizards.com/products/tabletop-games/rpg
 
 ### Is Chult post-Colonial Africa?
 
-This adventure is pure pulp fiction. The same kind of high adventure in exotic far away lands as Tarzan, Conan, Indiana Jones, and other properties that continue to tap into this genre that had it's heyday in the frist half of the 20th century.  Chult, with it's dark skinned people and many African styled names and depictions is easily seen as a fantasy Africa where the primary Forgrotten Realms Sword Coast can be seen as a renaissance merchant-civilization dominated Europe.  That makes Chult and TOA the most prominent depiction of black characters in D&D in recent memory if not ever.  While the characters are varied, it is getting harder to justify playing a game in 2019 where PCs explore into what is effectively a "dark continent" devoid of people and population.  This is too close to the depiction of Africa in western eyes from before World War II.  
+A much better writeup of issues some have with TOA with regards to black depictions in Chult can be found in [this Kotaku article](https://kotaku.com/dungeons-dragons-stumbles-with-its-revision-of-the-ga-1819657235)
 
-In the story, the civilized Port Nyanzaru is rules by a cabal of Merchant Princes who have manipulated their way free of Colonial rule by a different nation called Amn (of which I personally know very little.  It is south of Baldur's Gate).  They use their great wealth to hire mercenaries to protect their monopolies on lucrative trade in the Pror
+Given that the setting of the game presents a post-colonial Nyanzaru and a penninsula of dark skinned people with fantasy African inspirations, DMs running this adventure should have some awareness of possible reactions from their players. A game of make believe for both children and adults, I'd encourage GMs to have open comminication with their players on the topic and to adjust, remove, or emphasize the parts of the module that make it more fun or interesting to them.
 
-### Representation and Depiction matter
+Wizards of the Coast has done an excellent job diversifying many aspects of their game and promoting an inclusive hobby, but it doesn't change the fact we live in hyper sensitive times. GMs should adjust for their table as necessary but I believe it is worth calling attention to it. I'm glad I saw the above article before reading so I could make some adjustments to improve the immersion and enjoyment of my table.
 
 ## Modifications
 
-### Shipwreck start
-### Dangerous Jungle, Watch for the Grind
-### Mysteries need Clues, not exposition
+I'll quickly go over some of the changes I made to Chapter 1 and 2 of TOA
+
 ### Altering Chult
+
+Dinosaur Island
+
+### Shipwreck start
+
+Start on the boat with the dragon turtle
+A source for replacement characters
+Everyone made a choice to get on the boat, have players explain why they are headed to the island
+A simple "story mode" encounter and then a simple kobold dungeon to get new players to learn their characters
+A 20 to 30 mile trip through the jungle without supplies to foreshadow how hard the jungle is withotu a guide or supplies encourages players to talk to the guides in Nyanzaru to reveal plot hooks.
+
+### Pacing in the Jungle Grind
+
+After first experience with jungle, make a bigger point of first foray into the wilderness.  After that all additional time spent on logistics of survival get boring, switch to not getting lost first time they leave the river.  After that is no longer fun, make the encounters more interesting.  Have one last boss fight before hitting 5th level.  At that point the players are more than a match for the jungle and you should be focused only on the mystery and major encounters.  
+
+### Mysteries need Clues, not exposition
+
+GM gives Clues, players roll and role play for more details and context
+Here is my plot outline
+
+
+### The Aldani Map Puzzle
+
+Inspired by the map room in the first Indiana Jones movie, I made a puzzle the PCs could follow to get the general area where Omu is located. They knew at this point from the Sage of Orolunga that the lost city of Omu was where they were looking with the following clue:
+
+> "A wizard from the land of lakes, a survivor of 5 iterations of the universe, built a tomb in the lost city of Omu. Within it he hides the engine of undeath you seek."
+
+Not making it too easy, the Sage tells the party that Omu is hidden from her eyes. It's shielded from all scrying and directions to it are removed from the memories of all living beings. They'll have to find it through some old school archeology!
+
+Inete has been having dreams of red wizards in the Aldani Basin. If the payers explore that they find a Red Wizard encounter with their entourage of guards and skeletons studying 4 ancient standing stones or pillars. They are marked with glyphs depicting 1. pyramid, 2. heart 3. garden and 4. Omu. 
+
+{% include image.html url="posts/2019-10-04-toar-puzzle.jpg" description="Game 5" caption="Game 5: Firefinger converted to isometric" %}
+
+The arrangement of the pillars reveals the approximate location of Omu as long as you can piece together from your explorations that 1 is Orolunga, 2 is the heart of Ubtao, and 3 is Nangalore.  One of the pictures above is the battle map with the pillars. I copy and pasted it to the actual player's map of Chult in Roll20 so that week to week the players could use it as a reference when guessing Omu's location.
+
+
 ### I'm tired of Hags
 ### Converting NPCs into Companions
 
@@ -127,7 +166,7 @@ In the story, the civilized Port Nyanzaru is rules by a cabal of Merchant Prince
 
 {% include image.html url="posts/2019-10-04-toar-g20.jpg" description="Game 20" caption="Game 20: Fighting the Flaming Fist at Shilku Bay " %}
 
-{% include image.html url="posts/2019-10-04-toar-g21.jpg" description="Game 21" caption="Game 21: Fighting a Macawbear in Nangalore" %}
+
 
 
 
