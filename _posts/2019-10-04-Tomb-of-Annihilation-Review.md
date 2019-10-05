@@ -30,7 +30,7 @@ This is my favorite published adventure so far in 5th edition. It has its weakne
 
 ## Pro: Why I love this adventure
 
-### Aseries of non-linear sandboxes
+### A series of non-linear sandboxes
 
 The game is divided up into 5 chapters each representing a different non-linear section of the story.  Chapter 1 focuses on a port city that can be explored in any order.  Chapter 2 is a large jungle map with dozens of sittings worth of content to explore.  Chapter 3 switches into a similar non-linear exploration of lost ruin with multiple factions racing to solve ... well, I'm not there yet in my game so we'll keep the spoilers to the first two chapters.
 
