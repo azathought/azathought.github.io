@@ -28,9 +28,9 @@ If you've come interested in my isometric conversion of the module, [check out m
 
 This is my favorite published adventure so far in 5th edition. It has its weaknesses, but the immersive setting and high adventure combined with easy customization make for a fun time for many varieties of gaming groups.  Read below for my pros, cons, and modifications for my table.
 
-## Why I love this adventure
+## Pro: Why I love this adventure
 
-### TOA is a series of non-linear sandboxes
+### Aseries of non-linear sandboxes
 
 The game is divided up into 5 chapters each representing a different non-linear section of the story.  Chapter 1 focuses on a port city that can be explored in any order.  Chapter 2 is a large jungle map with dozens of sittings worth of content to explore.  Chapter 3 switches into a similar non-linear exploration of lost ruin with multiple factions racing to solve ... well, I'm not there yet in my game so we'll keep the spoilers to the first two chapters.
 
@@ -38,12 +38,14 @@ The game is divided up into 5 chapters each representing a different non-linear 
 
 TOA is an homage to 1st edition D&D, right down to its close namesake the [Tomb of Horrors](https://en.wikipedia.org/wiki/Tomb_of_Horrors), hexcrawl style open-world exploration, and expectation of high player death.  There is even an optional rule for a "Meat Grinder" difficulty setting.  All of this tickles the current nostalgic desire for old school revival in RPGs without locking GMs out of any innovations or story-driven possibilities of more modern games.  
 
-TOA is still flexible enough to suit most styles of play.  Surveys of dozens of games in Facebook groups of GMs running show a high variance of actual player death, which I see as a victory of flexibility to the preferred style of play for different groups.  I've been able to pick and choose ideas from these online communities of GMs running the module and mix them in easily to the broad sandbox-style without disrupting or distracting the flow of the game.  Here are a few great ideas inspired/taken from others (sources hard to direct link to)
+This module is still flexible enough to suit most styles of play.  Surveys of dozens of games in Facebook groups of GMs running show a high variance of actual player death, which I see as a victory of flexibility to the preferred style of play for different groups.  I've been able to pick and choose ideas from these online communities of GMs running the module and mix them in easily to the broad sandbox-style without disrupting or distracting the flow of the game.  
 
 {% include image.html url="posts/2019-10-04-toar-g21.jpg" description="Game 21" caption="Game 21: Fighting a Macawbear in Nangalore" %}
 
+Here are a few great ideas inspired/taken from others (some sources hard to direct link to)
+
 * The dreaded Macawbear (it's an owl bear with macaw plumage)
-* The Aldani rap battle: From Facebook: the lobster people of the Aldani basin only negotiate in rhyming rap duels
+* The Aldani rap battle: From the great GMs [Facebook community](https://www.facebook.com/groups/458806661178505/): the lobster people of the Aldani basin only speak or negotiate in rhyming poetry duels
 * Skeleton outpost: from Adam Kobel's (not sure where he got it) [Roll20 Presents stream](https://www.youtube.com/watch?v=YkWb7wQMiQU),  an outpost of undead soldiers who don't know they are undead.
 * [The Library of Kir Sabal](https://www.reddit.com/r/Tombofannihilation/comments/a4zkhw/kir_sabal_asharras_library/): from Reddit, the contents of Asharra's library
 
@@ -63,7 +65,7 @@ Less time in TOA is spent exploring thirty room dungeons with little interesting
 
 {% include image.html url="posts/2019-10-04-toar-g5-1.jpg" description="Game 5" caption="Game 5: Firefinger converted to isometric" %}
 
-## Weak points of the adventure
+## Con: Weak points of the adventure
 
 Some of these are real weaknesses.  Making a published adventure is always difficult as it has to sell to the broad spectrum of gamers and account for every possible play style and character back story.  These are my criticism, read below to see how I adapted the first year of my TOA game to adjust.
 
@@ -117,7 +119,7 @@ Faced with a survival situation and all their supplies other than essential armo
 
 ### Pacing in the Jungle Grind
 
-The random encounters for Chult's jungle are a lot of fun as long as you don't let it turn into a repetitive grind.  If your players enjoy the immersion of simulating a jungle expedition, follow the rules to the letter, but for most, pacing the game's challenges are an important part of keeping players engaged.  Breaking the suggested rules for the hexcrawl down into a few phases can control the pace without distracting from the story and adventure.
+The random encounters for Chult's jungle are a lot of fun as long as you don't let it turn into a repetitive grind.  If your players enjoy the immersion of simulating a jungle expedition, follow the rules to the letter. For most, pacing the game's challenges is an important part of keeping players engaged.  Breaking the suggested rules for the hexcrawl down into a few phases can control the pace without distracting from the story and adventure.
 
 1. The first trek back from the shipwreck uses 100% of the rules for insects, mad monkey fever, dehydration, etc.  The players have no supplies except what they can craft in the jungle so this should be challenging.  The risk and challenge here are succumbing to the dangers of the jungle. All this and an encounter or two with tiny velociraptors should humble the players and make them respect the jungle as a dangerous place for which they should prepare.
 
@@ -157,9 +159,13 @@ Just in case the players don't pick up on this puzzle, there are books in the He
 
 ### The Hag problem, Alternate Mbala
 
-D&D 5th edition over-uses hag encounters. It's getting to the point that if there is a woman NPC in a D&D module over the age of 50, she's more than likely part of a Hecate.  Curse of Strahd, Out of the Abyss, and Descent into Avernus all have Hags.  What gives.  I kept Nany Pupu but tried to make her a more sympathetic character,  Pupu is tormented by a devil who used to work the tomb builder in Chapter 5 who took up residence in Mbala and slowly killed it's population.  Pupu, which isn't the greatest name, is an immortal cleric and last survivor of Mbala.  If the players deal with the devil, Pupu can tell them a clue towards their quest.  Pupu is a worshiper of the "lord of bones" and is still evil, I'm just underplaying the Hag aspect. I am pretty sure I am going to dump the additional Hag encounters in Chapter 5.  I'm tired of them.  I read the Baba Yaga folk story in translation in college.  It was very cool, I'm just perplexed as to why they are in every single published adventure I've read so far.
+D&D 5th edition over-uses hag encounters. It's getting to the point that if there is a woman NPC in a D&D module over the age of 50, she's more than likely part of a Hecate.  Curse of Strahd, Out of the Abyss, and Descent into Avernus all have Hags.
+
+I kept Nany Pupu but tried to make her a more sympathetic character,  Pupu is tormented by a devil who used to work the tomb builder in Chapter 5 who took up residence in Mbala and slowly killed it's population.  Pupu, which isn't the greatest name, is an immortal cleric and last survivor of Mbala.  If the players remove the devil, Pupu can tell them a clue towards their quest.  Pupu is a worshiper of the "lord of bones" and is still evil, I'm just underplaying the Hag aspect. 
 
 {% include image.html url="posts/2019-10-04-toar-hag.jpg" description="Baba Yaga" caption="Ivan Bilibin's illustration of Baba Yaga.  It's a great story from Russian fantasy." %}
+
+I am pretty sure I am going to dump the additional Hag encounters in Chapter 5.  I'm tired of them.  I read the Baba Yaga folk story in translation in college.  It was very cool, I'm just perplexed as to why they are in every single published adventure I've read so far.
 
 ### Converting NPCs into Companions
 
