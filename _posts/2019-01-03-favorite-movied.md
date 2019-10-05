@@ -4,7 +4,7 @@ title: Top Film Impressions of 2018
 date: 2019-01-03 00:00:00 -0500
 description: I watched a lot of airplane movies this year
 img: posts/2019-01-03-coco.jpg
-tags: [review, movies]
+tags: [reviews, movies]
 published: true
 comments: true
 ---
