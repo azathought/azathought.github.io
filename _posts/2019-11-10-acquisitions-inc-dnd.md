@@ -13,7 +13,7 @@ comments: true
 
 We are five years into the run of 5th edition D&D, easily the most successful version of the game in decades.  This June's Acquisitions Incorporated book (AI) had a rare gem hidden in its pages: an excellent first-level dungeon perfect for introducing new players to the hobby.
 
-**Spoiler Warning: This review will have major spoilers for the first chapter of "The Orrery of the Wanderer", the included modules in Acquisitions Incorporated** 
+**Spoiler Warning: This review will have major spoilers for the first chapter of "The Orrery of the Wanderer", the included module in Acquisitions Incorporated** 
 
 Dungeon Masters starting new campaigns from published adventure modules have a number of challenges to overcome, but few are as immediate as how to fix the often underwhelming starts to many of the most popular D&D modules.  On top of that, first-level characters are notoriously fragile and teaching new players the rules.  Yet, with all its popularity, D&D has a surprising shortage of good intro dungeons.
 
