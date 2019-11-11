@@ -15,7 +15,7 @@ We are five years into the run of 5th edition D&D, easily the most successful ve
 
 **Spoiler Warning: This review will have major spoilers for the first chapter of "The Orrery of the Wanderer", the included module in Acquisitions Incorporated** 
 
-Dungeon Masters starting new campaigns from published adventure modules have a number of challenges to overcome, but few are as immediate as how to fix the often underwhelming starts to many of the most popular D&D modules.  On top of that, first-level characters are notoriously fragile and teaching new players the rules.  Yet, with all its popularity, D&D has a surprising shortage of good intro dungeons.
+Dungeon Masters starting new campaigns from published adventure modules have a number of challenges to overcome, but few are as immediate as how to fix the often underwhelming starts to many of the most popular D&D modules.  Yet, with all its popularity, D&D has a surprising shortage of good intro dungeons.
 
 The dungeon in "The Orrery of the Wanderer" Chapter 1, also titled "Right Place, Wrong Heroes" is bookended with fan service to Acquisitions Incorporated, a podcast and live show from the makers of Penny Arcade. Strip that away and what you have is a 10 room linear dungeon that progressively teaches important mechanics of D&D.  This month I started a home "Descent into Avernus (DIA) game, so I was able to reskin AI's first chapter to suit my needs.
 
