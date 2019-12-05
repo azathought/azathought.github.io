@@ -13,7 +13,7 @@ comments: true
 
 **Spoiler Warning: This review will have major spoilers for Chapters 1 and 2 of Tomb of Annihilation.** 
 
-I'm excited to say I am a whole year and 21 sessions into running Tomb of Annihilation (TOA) on Roll20 with some good friends.  We are in the middle of a golden age of tabletop role-playing games brought forth by a few things
+I'm excited to say I am a whole year and 21 sessions into running Tomb of Annihilation (TOA) on Roll20 with some good friends.  We are in the middle of a golden age of tabletop role-playing games brought forth by a few things:
 * nostalgia-inducing Fifth edition of D&D
 * streaming & podcast driven exposure of the hobby
 * something about the times we live making games that require eye contact with your friends exciting
