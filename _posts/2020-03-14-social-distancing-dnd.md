@@ -76,6 +76,10 @@ Your players are going to be more distracted when they are sitting at home in fr
 
 Lives can get busy. Setting expectations for the etiquette of starting on time and ending on time is often the best way of keeping the group together and playing regularly.  Ask players to notify you as soon as you can if they can't play and establish early how the game will work if not everyone can make it.  You can stay friends with them even if they can't make it to your internet D&D game.
 
+# Support your FLGS
+
+Small businesses are important. If you like your Friendly Local Gaming Store and were patronizing it before Social Distancing, keep that up even after moving your hobby online. 
+
 # The Results May Be Spectacular, and Virus Free
 
 The following video is a fast forward replay of a fight from my Tomb of Annihilation game. **Mild spoilers for that module ahead**, but you can definitely have a compelling D&D experience without meeting in person.  Stay healthy folks!
