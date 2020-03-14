@@ -25,7 +25,7 @@ You may get some resistance at first from players. It can be awkward compared to
 
 Personally, I use Zoom, which is not free, but you can do just as well with something like Google Hangouts.
 
-# Roll where everyone can see
+# Roll Where Everyone Can See
 
 It can be tempting to just have players roll actual dice. Don't do this. Putting aside everyone's natural urge to fudge the dice, there are few things more fun than all reacting to a critical hit or horrible luck all at the same time.  Announcing your dice rolls to each other by voice isn't nearly as dramatic or fun. 
 
@@ -76,7 +76,7 @@ Your players are going to be more distracted when they are sitting at home in fr
 
 Lives can get busy. Setting expectations for the etiquette of starting on time and ending on time is often the best way of keeping the group together and playing regularly.  Ask players to notify you as soon as you can if they can't play and establish early how the game will work if not everyone can make it.  You can stay friends with them even if they can't make it to your internet D&D game.
 
-# The results can be pretty spectacular, and virus free
+# The Results May Be Spectacular, and Virus Free
 
 The following video is a fast forward replay of a fight from my Tomb of Annihilation game. **Mild spoilers for that module ahead**, but you can definitely have a compelling D&D experience without meeting in person.  Stay healthy folks!
 
