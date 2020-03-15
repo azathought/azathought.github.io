@@ -7,6 +7,7 @@ img: posts/2020-03-14-sdd4.jpg
 tags:
   - reviews
   - tabletop_rpg
+  - health
 published: true
 comments: true
 ---
