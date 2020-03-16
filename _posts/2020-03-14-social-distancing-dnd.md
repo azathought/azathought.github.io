@@ -32,7 +32,7 @@ It can be tempting to just have players roll actual dice. Don't do this. Putting
 
 # Choose Accessible Tools
 
-If you play D&D in a "theater of the mind" style, you may not need anything more than a video app and a good online dice roller. If you enjoy the tactical aspect of 
+If you play D&D in a "theater of the mind" style, you may not need anything more than a video app and a good online dice roller. If you enjoy the tactical aspect of D&D, you are going to need a Virtual Table Top (VTT).
 
 There are many good tools out there for online D&D, but realize that they have very different learning curves for your players and very different system requirements for their computers. Consider your players and how much time they'll spend learning new tools or who you might be alienating by choosing tools that either don't run on their laptops or don't run well. Not everyone you want to play with is going to have a graphics card or gaming PC handy, as excited as we all may be for upcoming software like [Talespire](https://talespire.com/) or established 3D tools like [Tabletop Simulator](https://store.steampowered.com/app/286160/Tabletop_Simulator/).
 
