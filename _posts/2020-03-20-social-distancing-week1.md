@@ -31,7 +31,7 @@ I have had more conversations about Zoom in the past week than I ever expected. 
 
 The reality of 8 weeks on Zoom tipped me over into buying a new Elgato green screen and wifi controlled key lights. I think my brand loyalty for Elgato now almost rivals that of Logitech in my work from home "battlestation" setup.
 
-# When it is time Chill-in-place
+# When it is time to Chill-in-place
 
 Virtual backdrop in Zoom is currently a helicopter ride overlooking hudson bay, which is my ultimate anti-claustrophobia memory.
 
