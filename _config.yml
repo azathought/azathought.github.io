@@ -9,8 +9,9 @@ url: "http://www.azathought.com" # the base hostname & protocol for your site, e
 author: Azathought # add your name
 author-img: caricature.png # add your photo
 about-author: A geek in Washington, DC. # add description
-twitter: azathought # add your Twitter handle
+###twitter: azathought # add your Twitter handle
 instagram: azathought
+instagram2: azathought_games
 
 # paging
 paginate: 8
