@@ -3,7 +3,7 @@ layout: post
 title: Social Distancing Week 2
 date: '2020-03-28 00:00:00 -0500'
 description: Journal of a week at home
-img: posts/2020-03-20-w2.jpg
+img: posts/2020-03-28-w1.jpg
 tags:
   - health
   - journal
