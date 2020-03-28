@@ -38,7 +38,7 @@ As Americans, we are not used in the slightest to scarcity. If I was able to sen
 
 > "If I have to be on Zoom one second longer, I’ll scream." -- friend unused to working from home
 
-As a six-year work-from-home veteran, it is humorous to see the rest of the world telling the same work from home jokes for the first time. Seeing people discovery "Brady Bunch-mode", the mute button, and being ready to be off of zoom on the weekend is somewhat amusing.  
+As a six-year work-from-home veteran, it is humorous to see the rest of the world telling the same work from home jokes for the first time. Seeing people discover "Brady Bunch-mode", the mute button, and being ready to be off of zoom on the weekend is amusing.  
 
 > "I never knew my lifestyle had a name, it's called quarantine" -- gym member on gym cocktail hour
 
