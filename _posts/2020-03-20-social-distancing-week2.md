@@ -13,11 +13,13 @@ comments: true
 
 A continued journal of Week 2 from the Social Distancing zone of Washington DC.  
 
-This week the news started getting dire as our hospitals and healthcare workers are getting hit hard by the pandemic. This is also the week that things started getting more stressful. Getting accurate information is quite difficult and I am trying to making sure not to get overwhelmed by hearsay and rumor.  However, the partial testing and seven-day delay on results create a pretty big gap between the number of confirmed cases in the US vs. our likely actual cases and daily transmission rates.  Social distancing and staying at home seem appropriate, and possibly not enough.
+This week the news started getting dire as our hospitals and healthcare workers are getting hit hard by the pandemic. This is also the week that things started getting personally stressful. Getting accurate information is quite difficult and I am trying to making sure not to get overwhelmed by hearsay and rumor.  However, the partial testing and seven-day delay on results create a pretty big gap between the number of confirmed cases in the US vs. our likely actual cases and daily transmission rates.  Social distancing and staying at home seem appropriate, and possibly not enough.
+
+All that being said, I'm going to keep things positive here.  Week 2:
 
 # The very beginnings of scarcity
 
-As Americans, we are not used in the slightest to scarcity. If I was able to send a letter to my past self from a month ago it would say:
+If I was able to send a letter to my past self from a month ago it would say:
 
 * Buy 2 big packs of toilet paper
 * Buy 2 big packs of paper towels
@@ -33,8 +35,9 @@ As Americans, we are not used in the slightest to scarcity. If I was able to sen
 * Filled up my car with gas when it is already 80% full
 * Backed out of running an online D&D game for the local community
 * Many zoom happy hours
+* An absolutely wonderful zoom dinner with family around the country.  We should have done this years ago.
 
-# Zoom socializing
+# Zoom socializing newbies
 
 > "If I have to be on Zoom one second longer, I’ll scream." -- friend unused to working from home
 
@@ -44,7 +47,7 @@ As a six-year work-from-home veteran, it is humorous to see the rest of the worl
 
 # Am I taking this seriously enough?
 
-Given that testing is only partial and there is a seven-day delay for test results in my area, the actual numbers of transmissions and infected compared to what is being tracked as confirmed cases officially are going to be at least an order of magnitude off.  This week I left my house for three things:
+This week I left my house for three things:
 
 * Getting supplies from the grocery store.
 * Running in my neighborhood.  
