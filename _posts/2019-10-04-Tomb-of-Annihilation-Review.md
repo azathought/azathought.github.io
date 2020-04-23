@@ -173,7 +173,9 @@ To solve the too many NPCs in combat problem I tried using Chris Ramsely's [Comp
 
 ## Pictures of game
 
-I've mixed in screenshots of my Roll20 game above, but here are the rest.  I'm looking forward to Chapter 3 through 5.  I'll at least post screenshots of what happens when they finish Chapter 4.
+I've mixed in screenshots of my Roll20 game above, but here are the rest.  I'm looking forward to Chapter 3 through 5.  I'll at least post screenshots of what happens when they finish Chapter 3.
+
+[Continue to Part 2 of the review](/toa2/)
 
 {% include image.html url="posts/2019-10-04-toar-g1-1.jpg" description="Game 1 full map" caption="Game 1: The full Kobold Cave.  First isometic map, and I learned a lot about making depth more clear" %}
 
