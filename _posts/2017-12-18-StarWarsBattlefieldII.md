@@ -15,7 +15,7 @@ The single player campaign's best moments are when you get to play as motion-cap
 
 After crushing the single player in a sitting, I moved onto the flight sim multiplayer which has a half dozen or so missions spread from Episodes II to VIII (luckily with no  spoilers)  I gave up trying to play with a gamepad, which felt more like flying and switched to a mouse and keyboard.  This killed some of the immersion, but was very important to being able to aim against other PC players with the same advantage.  It took a few nights (I'm not much of a competitive gamer) but I got to the point where I could shoot down a few enemy fighters each time I spawned. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZPWva6dqbIM" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/ZPWva6dqbIM" frameborder="0" allowfullscreen></iframe>
 
 The gameplay  has a lot of leading the target using a red guide and I'd be interested to play in more simulationist battles that turn this off.  I should probably also figure out if there are ways to reduce the amount of HUD items to a bare minimum.  I rarely say this about games, but the multiplayer is actually fun.
 
