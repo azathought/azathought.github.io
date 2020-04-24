@@ -69,7 +69,7 @@ However, understand that is where I got to after playing online for multiple yea
 
 D&D Beyond is not only an excellent Character Sheet Builder but also provides a great in-game experience.  I can't imagine playing 5th Edition without it. Roll20 has a learning curve, especially for DMs, but once you are past that it can speed-up play.  I am not a fan of the character sheet system in Roll20, so I use Beyond 20 to integrate the two tools to get the best of both worlds.  Here a tutorial video on using the two together:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/um3z1g63NEw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/um3z1g63NEw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Schedule Shorter Games
 
@@ -85,5 +85,5 @@ Small businesses are important. If you like your Friendly Local Gaming Store and
 
 The following video is a fast forward replay of a fight from my Tomb of Annihilation game. **Mild spoilers for that module ahead**, but you can definitely have a compelling D&D experience without meeting in person.  Stay healthy folks!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d4Ujbd8WW7Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/d4Ujbd8WW7Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
