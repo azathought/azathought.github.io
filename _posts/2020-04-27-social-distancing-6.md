@@ -12,7 +12,7 @@ published: true
 comments: true
 ---
 
-I tooks some time off work this week; partly to set a good example for my team and partly because I needed it.  I've been going flat out since January and it has become clear from all my meetings and discussions with co-workers that even though my company is accustomed to working from home, social distancing lock down is taking it's toll on us. Unplugging from work helps keep it all in perspective. I'm fortunate that actually using the PTO my company gives me isn't going to count against me at work. Not everyone is so lucky to be in that situation.
+I took some time off work this week; partly to set a good example for my team and partly because I needed it.  I've been going flat out since January and it has become clear from all my meetings and discussions with co-workers that even though my company is accustomed to working from home, social distancing lock down is taking it's toll on us. Unplugging from work helps keep it all in perspective. I'm fortunate that actually using the PTO my company gives me isn't going to count against me at work. Not everyone is so lucky to be in that situation.
 
 I've tried to keep it productive and learn new skills:
 
