@@ -70,7 +70,7 @@ In EH, there is a Doom track that counts down to the end of the world when the s
 
 The primary risk to investigators in EH is similar to that in Pandemic.  In Pandemic, untreated infections can cascade across borders in a way that roughly simulates compounding infection rates.  Players have to decide how much of their joint actions are spent working to cure disease vs. treat the infections before they spread out of control.  Here's a video of a randomly drawn cascading infection playing out in a video game version of Pandemic:
 
-{% include youtube.html url="https://www.youtube.com/embed/-SctX6CHKic" caption="Compounding infection mechanic in Pandemic, iOS Version by Asmodee Digital" %}
+{% include youtube.html url="https://www.youtube.com/embed/Xd6EwnNvKIc" caption="Compounding infection mechanic in Pandemic, iOS Version by Asmodee Digital" %}
 
 The problem is that too much is random in EH.  They joy of Pandemic is that the player's ability to stamp out infection, especially that of the Medic character, is completely deterministic.  A player willing to travel and spend the points to cure an infection is guaranteed to have an impact.  The only random risk is that the city with an existing infection will be the randomly chosen next point for infection spread and eventual border-crossing outbreak.  In short:
 
