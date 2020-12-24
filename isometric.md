@@ -40,7 +40,7 @@ Find my settings for maps imported into Foundry VTT in Content pack 1.
 * [Roll20 Isometric Tips](/embracing-isometric-roll20/)
 
 ## Where to get more isometric content
-Index of active Isometric rpg art creators.  We all have opinions on the style and quality we want to use in our games, so I'll put my full list here.
+Index of active Isometric rpg art creators.  There are diverse styles and levels of detail available so I'll keep a big list of creators I find here:
 
 * [Epic Isometric](https://www.patreon.com/epicisometric)
 * [Isometric Worlds](https://www.patreon.com/isometricworlds)
