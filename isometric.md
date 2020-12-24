@@ -23,6 +23,13 @@ My tools and approaches have changed over the years, and I started making videos
 I decided not to start a patreon. I don't want my hobby turning into an obligation, so I'll just post links to my most recent content packs here:
 * [Isometic Pack 1: 64 px Isometric Template](/isometric-pack-1/)
 
+## Isometric in Roll20
+I ran in "gridless" moving and sizing tokens freely
+
+## Isometric in Foundry VTT
+Without special modules, I currently run in a Hex Columns Odd 74 px format, which lines up with a 64 px isometric grid.
+
+Alternatively I've started to run with  the grape_juice-isometics plugin which is currently in early access available through this [patreon](https://www.patreon.com/foundry_grape_juice)
 
 ## Older Blog Posts
 * [Roll20 Isometric Tips](/embracing-isometric-roll20/)
