@@ -11,14 +11,21 @@ published: true
 comments: true
 ---
 
+⬇[\[Download\] Pack 1: Azathought 64px Isometric Template](http://bit.ly/azathought-iso-template)⬇
+
 Includes:
 * transparent png isometric grid at 64 px size
 * Foundry VTT settings
 * "game table" landing page or "no prep" page
 * all Photoshop source files
 
-⬇[\[Download\] Pack 1: Azathought 64px Isometric Template](http://bit.ly/azathought-iso-template)⬇
+## Making of Video
+<iframe src="https://www.youtube.com/embed/VOiYGB8gWsk" frameborder="0" allowfullscreen></iframe>
 
+## Isometric Landing page
+[Link](/isometric/)
+
+## License info
 My content is a fan work which may contain Wizards of the Coast IP and is shared following the rules of the [Wizards of the Coast Fan Content Policy](https://company.wizards.om/fancontentpolicy)
 
 Original content is is Creative Commons - [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)
