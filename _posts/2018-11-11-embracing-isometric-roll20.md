@@ -4,7 +4,7 @@ title: Embracing Isometric play in Roll20
 date: 2018-11-15 00:00:00 -0500
 description: Running D&D in isometric mode.  Art prep.
 img: posts/2018-11-11-iso1.jpg
-tags: [tabletop_rpg]
+tags: [tabletop_rpg, isometric]
 published: true
 comments: true
 ---
