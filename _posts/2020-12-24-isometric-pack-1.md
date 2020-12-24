@@ -23,8 +23,8 @@ Includes:
 ## Making of Video
 <iframe src="https://www.youtube.com/embed/VOiYGB8gWsk" frameborder="0" allowfullscreen></iframe>
 
-## Isometric Landing page
-[Link](/isometric/)
+## Where to find more Azathought Isometric content
+Check out my [isometric landing page](/isometric/)
 
 ## License info
 My content is a fan work which may contain Wizards of the Coast IP and is shared following the rules of the [Wizards of the Coast Fan Content Policy](https://company.wizards.om/fancontentpolicy)
