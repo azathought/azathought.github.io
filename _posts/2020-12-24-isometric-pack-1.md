@@ -34,4 +34,5 @@ Original content is is Creative Commons - [CC BY-NC 2.0](https://creativecommons
 Contains content that is Creative Commons, including :
 * Ballpoint pen and pencil CC-0 from [lakerice](https://www.blendswap.com/blend/22197)
 * coke CC-BY by [jackho](https://blendswap.com/blend/13061)
-* Doce CC-BY-NC by [lifeenjoyer](https://blendswap.com/blend/16634)
+* Dice CC-BY-NC by [lifeenjoyer](https://blendswap.com/blend/16634)
+* OpenForge 2.0 tiles are CC BY-SA 3.0 by [devonjones](https://www.thingiverse.com/devonjones/collections/openforge-2-dungeon-stone-series)
