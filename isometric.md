@@ -21,8 +21,7 @@ My tools and approaches have changed over the years, and I started making videos
 
 ## Azathought Isometric Content Releases
 I decided not to start a patreon. I don't want my hobby turning into an obligation, so I'll just post links to my most recent content packs here:
-{% include image.html url="content/Pack1Spash.jpg" description="templates" caption="64px isometric grid and gaming table background" %}
-[\[Download\] Pack 1: Azathought 64px Isometric Template](http://bit.ly/azathought-iso-template)
+* [Isometic Pack 1: 64 px Isometric Template](/isometric-pack-1/)
 
 
 ## Older Blog Posts
@@ -38,4 +37,5 @@ Index of active Isometric rpg art creators.  We all have opinions on the style a
 * [Isometric Worlds](https://www.patreon.com/isometricworlds)
 * [Stelliadi](https://www.patreon.com/stelliadi_isometric)
 * [Two Brave Puffins](https://www.patreon.com/TwoBravePuffins)
+* [TheFlyingMinotaur](https://www.patreon.com/user?u=7285440)
 * [The Iso Explorer](https://www.patreon.com/theisoexplorer)
