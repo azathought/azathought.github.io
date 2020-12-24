@@ -15,7 +15,8 @@ comments: true
 
 Includes:
 * transparent png isometric grid at 64 px size
-* Foundry VTT settings
+* Foundry VTT settings (isometric, hex trick)
+* Roll20 settings (gridless)
 * "game table" landing page or "no prep" page
 * all Photoshop source files
 
