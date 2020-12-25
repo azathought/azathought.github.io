@@ -9,35 +9,38 @@ useInNav: true
 
 *This page is a work in progress*
 
-I'm starting a landing page to capture my isometric guides and assets in one place rather than across a dozen youtube videos and lists.  Hi! I'm azathought and I love hacking/making isometric art for my online D&D games. It all started when I converted a Tomb of Annihilation jungle crawl to isometric and we had a magical moment fighting off a Zombie T-Rex rather than fleeing. This moment cemented my love of isometric play, and I'm not sure I could go back.
+I'm starting a landing page to capture my isometric guides and assets in one place rather than across a dozen youtube videos and lists.  Hi! I'm AZATHOUGHT and I love hacking/making isometric art for my online D&D games. It all started when I converted a Tomb of Annihilation jungle crawl to isometric and we had a magical moment fighting off a Zombie T-Rex rather than fleeing. This moment cemented my love of isometric play, and I'm not sure I could go back to "top down" online play.
 
 {% include image.html url="posts/2019-10-04-toar-g7-2.jpg" description="catching the isometric bug" caption="October 2018 - defending and isometric temple from a dinosaur big enough to use the vertical terrain!" %}
 
-My tools and approaches have changed over the years and at some point I started making videos to answer questions from others on how I was making my game look this way.  Use this page as a reference for tips, tricks, and assets if you you too want to play tabletop  online using isometric art.
+My tools and techniques have changed over the years and at some point I started making videos to answer questions from others on how I was making my game look this way.  Use this page as a reference for tips, tricks, and assets if you you too want to play tabletop  online using isometric art.
 
 ## Azathought Isometric Content Releases
-I decided not to start a Patreon. I don't want my hobby turning into an obligation, so I'll just post links to my content packs here:
+I decided not to start a Patreon. I don't want my hobby turning into an obligation, so I've decided to post links to my content packs here for free:
 * [Isometic Pack 1: 64 px Isometric Template](/isometric-pack-1/)
 
 ## Where to follow me
 * [Azathought on Youtube](https://www.youtube.com/azathought-games)
 * [Azathought on Instagram](https://www.instagram.com/azathought_games/)
 
-## Isometric in Roll20
-I ran in "gridless" moving and sizing tokens freely.  Find my settings for maps imported into Roll20 in Content pack 1.
 
 ## Isometric in Foundry VTT
-Without special modules, I currently run in a Hex Columns Odd 74 px format, which lines up with a 64 px isometric grid.
+Method 1: without special modules, run your grid in a Hex Columns Odd 74 px format. This lines up with a 64 px isometric grid.
 
-Alternatively I've started to run with  the grape_juice-isometics plugin which is currently in early access available through this [patreon](https://www.patreon.com/foundry_grape_juice)
+Method 2: for full isometric grid support check out the grape_juice-isometics plugin which is currently in early access available through this [patreon](https://www.patreon.com/foundry_grape_juice)
 
-Find my settings for maps imported into Foundry VTT in Content pack 1.
+Find full settings for maps imported into Foundry VTT in Content pack 1.
 
-## Isomteric tips Youtube playlists
+## Isometric in Roll20
+I find Roll20 works the best running in "gridless" mode and moving your tokens freely.  Find my settings for maps imported into Roll20 in Content pack 1. Measurements will be approximate, but Roll20 handles this well.
+
+## Isomteric tips Youtube playlists and key videos
 * [Isometric Art Tips](https://www.youtube.com/playlist?list=PLwozL5pYIL5RD3-1D9EHuHaUrHg1vb_pz)
+* [grape_juice-isometrics early access](https://www.youtube.com/watch?v=2MAp3t3bZjo)
+* [The Hex Trick](https://www.youtube.com/watch?v=AHRvKMuQbDg)
 
 ## Older Blog Posts
-* [Roll20 Isometric Tips](/embracing-isometric-roll20/)
+* [Embracing Isometric Roll20](/embracing-isometric-roll20/)
 
 ## Where to get more isometric content
 Index of active Isometric rpg art creators.  There are diverse styles and levels of detail available so I'll keep a big list of creators I find here:
