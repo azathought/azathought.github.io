@@ -9,6 +9,8 @@ published: true
 comments: true
 ---
 
+> **Update: check out my new Isometric Landing Page for all things Isometric**
+
 After a long break, I'm running a D&D game with friends again. To cram the game into our busy schedules and to cut down on traveling time we've decided to run the game online using a tool called Roll20, of which I am a happy Kickstarter backer.  We just finished our 4th weeknight session using the Roll20 app and I hope very much that we can keep it going because I am having tons of fun.  
 
 One thing that has always bugged me with Roll20, and most other virtual tabletop tools, is that they use an overhead view of the adventure map. This might have been common in 1990's video games, but ever since Baldur's Gate and Diablo it feels quite awkward to play a computer RPG of any kind with a top-down view. Video Games switched for a reason: players sitting in front of a real-life table look down at a board game at roughly a 45-degree downward angle. You can see more of the action! The monsters and heroes simply look more interesting from the side than from overhead. Taking up the challenge and inspired by some of the other games and projects I'm seeing out there, I've started to invest some hobby art time in prepping maps and minis to run my game in an alternate mode called isometric.  Here's what I've learned prepping assets a few games ahead for a game of Tomb of Annihilation, a printed adventure book made by the D&D publisher that involves a dinosaur and zombie-infested jungle.
