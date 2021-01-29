@@ -18,11 +18,11 @@ My tools and techniques have changed over the years and at some point I started 
 ## Azathought Isometric Content Releases
 I decided not to start a Patreon. I don't want my hobby turning into an obligation, so I've decided to post links to my content packs here for free:
 * [Isometic Pack 1: 64 px Isometric Template](/isometric-pack-1/)
+* [Isometic Pack 2: OpenForge Tiles Rendered in Isometric](/isometric-pack-2/)
 
 ## Where to follow me
 * [Azathought on Youtube](https://www.youtube.com/azathought-games)
 * [Azathought on Instagram](https://www.instagram.com/azathought_games/)
-
 
 ## Isometric in Foundry VTT
 Method 1: without special modules, run your grid in a Hex Columns Odd 74 px format. This lines up with a 64 px isometric grid.
@@ -45,6 +45,7 @@ I find Roll20 works the best running in "gridless" mode and moving your tokens f
 ## Where to get more isometric content
 There are many artists making isometric assets of diverse styles and levels of detail available so here is a big list of active creators you might want to check out:
 
+* [Blackraven Studios](https://www.patreon.com/BlackravenStudios)
 * [cinderlight](https://www.patreon.com/cinderlight)
 * [Diogo Assuncao](https://www.patreon.com/diogottrpg)
 * [Epic Isometric](https://www.patreon.com/epicisometric)
