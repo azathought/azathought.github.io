@@ -16,7 +16,7 @@ I'm starting this landing page to collect isometric guides and assets in one pla
 My tools and techniques have changed over the years and at some point I started making videos to answer questions from others on how I was making my game look this way.  Use this page as a reference for tips, tricks, and assets if you you too want to play tabletop  online using isometric art.
 
 ## Azathought Isometric Content Releases
-I decided not to start a Patreon. I don't want my hobby turning into an obligation, so I've decided to post links to my content packs here for free:
+I have decided not to start a Patreon. I don't want my hobby turning into an obligation, so I've decided to post links to my content packs here for free:
 * [Isometic Pack 1: 64 px Isometric Template](/isometric-pack-1/)
 * [Isometic Pack 2: OpenForge Tiles Rendered in Isometric](/isometric-pack-2/)
 
@@ -43,7 +43,7 @@ I find Roll20 works the best running in "gridless" mode and moving your tokens f
 * [Embracing Isometric Roll20](/embracing-isometric-roll20/)
 
 ## Where to get more isometric content
-There are many artists making isometric assets of diverse styles and levels of detail available so here is a big list of active creators you might want to check out:
+There are many artists making isometric assets of diverse styles and levels of detail. Here is a big list of active creators you might want to check out:
 
 * [Blackraven Studios](https://www.patreon.com/BlackravenStudios)
 * [cinderlight](https://www.patreon.com/cinderlight)
