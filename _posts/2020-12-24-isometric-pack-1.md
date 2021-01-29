@@ -4,6 +4,7 @@ title: 'Isometric Pack 1: 64 px Isometric Template'
 date: '2020-12-24 00:00:00 -0500'
 description: Content for people running isometric games in Foundry VTT or Roll20
 img: content/Pack1Spash.jpg
+permalink: /isometric-pack-1/
 tags:
   - tabletop_rpg
   - isometric
