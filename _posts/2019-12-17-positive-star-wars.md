@@ -2,11 +2,10 @@
 layout: post
 title: Positive things to do if you don't like Star Wars Rise of Skywalker
 date: '2019-12-17 00:00:00 -0500'
-description: I started crossfit
+description: Be nice to one another
 img: posts/2019-12-07-sw1.jpg
 tags:
-  - quantified-self
-  - cross-fit
+  - star_wars
 published: true
 comments: true
 ---
