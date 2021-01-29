@@ -13,7 +13,7 @@ I'm starting this landing page to collect isometric guides and assets in one pla
 
 {% include image.html url="posts/2019-10-04-toar-g7-2.jpg" description="catching the isometric bug" caption="October 2018 - defending and isometric temple from a dinosaur big enough to use the vertical terrain!" %}
 
-My tools and techniques have changed over the years and at some point I started making videos to answer questions from others on how I was making my game look this way.  Use this page as a reference for tips, tricks, and assets if you you too want to play tabletop  online using isometric art.
+My tools and techniques have changed over the years and at some point I started making videos to answer questions from others on how I was making my game look this way.  Use this page as a reference for tips, tricks, and assets if you too want to play tabletop online using isometric art.
 
 ## Azathought Isometric Content Releases
 I have decided not to start a Patreon. I don't want my hobby turning into an obligation, so I've decided to post links to my content packs here for free:
