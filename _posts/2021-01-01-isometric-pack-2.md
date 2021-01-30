@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Isometric Pack 2: OpenForge Tiles Rendered in Isometric'
-date: '2021-01-01 00:00:00 -0500'
+date: '2021-01-29 00:00:00 -0500'
 description: Content for people running isometric games in Foundry VTT or Roll20
 img: content/Pack2Splash.jpg
 permalink: /isometric-pack-2/
