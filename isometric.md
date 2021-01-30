@@ -4,10 +4,7 @@ layout: page
 permalink: /isometric/
 useInNav: true
 ---
-
 # Isometric Virtual Table Top Guide
-
-*This page is a work in progress*
 
 I'm starting this landing page to collect isometric guides and assets in one place.  Hi! I'm AZATHOUGHT and I love hacking/making isometric art for my online D&D games. It all started when I converted a Tomb of Annihilation jungle crawl to isometric and my table had a magical moment fighting off a Zombie T-Rex rather than fleeing from it. The players used the vertical terrain! This moment cemented my love of isometric play, and I'm not sure I could go back to traditional "top down" online play.
 
@@ -19,6 +16,7 @@ My tools and techniques have changed over the years and at some point I started 
 I have decided not to start a Patreon. I don't want my hobby turning into an obligation, so I've decided to post links to my content packs here for free:
 * [Isometic Pack 1: 64 px Isometric Template](/isometric-pack-1/)
 * [Isometic Pack 2: OpenForge Tiles Rendered in Isometric](/isometric-pack-2/)
+
 
 ## Where to follow me
 * [Azathought on Youtube](https://www.youtube.com/azathought-games)
@@ -35,9 +33,9 @@ Find full settings for maps imported into Foundry VTT in Content pack 1.
 I find Roll20 works the best running in "gridless" mode and moving your tokens freely.  Find my settings for maps imported into Roll20 in Content pack 1. Measurements will be approximate, but Roll20 handles gridless well.
 
 ## Isomteric tips Youtube playlists and key videos
-* [Isometric Art Tips](https://www.youtube.com/playlist?list=PLwozL5pYIL5RD3-1D9EHuHaUrHg1vb_pz)
-* [grape_juice-isometrics early access](https://www.youtube.com/watch?v=2MAp3t3bZjo)
-* [The Hex Trick](https://www.youtube.com/watch?v=AHRvKMuQbDg)
+* [Playlist - Isometric Art Tips](https://www.youtube.com/playlist?list=PLwozL5pYIL5RD3-1D9EHuHaUrHg1vb_pz)
+* [Video - grape_juice-isometrics early access](https://www.youtube.com/watch?v=2MAp3t3bZjo)
+* [Video - The Hex Trick](https://www.youtube.com/watch?v=AHRvKMuQbDg)
 
 ## Older Blog Posts
 * [Embracing Isometric Roll20](/embracing-isometric-roll20/)
@@ -55,3 +53,5 @@ There are many artists making isometric assets of diverse styles and levels of d
 * [Two Brave Puffins](https://www.patreon.com/TwoBravePuffins)
 * [TheFlyingMinotaur](https://www.patreon.com/user?u=7285440)
 * [The Iso Explorer](https://www.patreon.com/theisoexplorer)
+
+If you'd like to recommend a creator of isometric content, free or paid, reach out and I'd be happy to add to the list above.
