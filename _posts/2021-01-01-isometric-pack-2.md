@@ -27,10 +27,15 @@ Either using the lasso tool on the asset sheets, or by dragging from the separat
 ## Where to find more Azathought Isometric content
 Check out my [isometric landing page](/isometric/)
 
-## License info
-My content is a fan work which may contain Wizards of the Coast IP and is shared following the rules of the [Wizards of the Coast Fan Content Policy](https://company.wizards.om/fancontentpolicy)
+## Dual License info
+This content is dual licensed so folks streaming on the internet don't have to worry about using it in a streamed game.
 
-Original content is is Creative Commons - [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)
+Original content is licened Creative Commons - [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
-Contains content that is Creative Commons, including :
+Alternatively, I grant the right for online commercial broadcast and replay without attribution.
+
+Note, my content is a fan work which may contain Wizards of the Coast IP and is shared following the rules of the [Wizards of the Coast Fan Content Policy](https://company.wizards.com/fancontentpolicy)
+
+Attributions - Contains content from others with linked licenese, including :
 * OpenForge 2.0 tiles are CC BY-SA 3.0 by [devonjones](https://www.thingiverse.com/devonjones/collections/openforge-2-dungeon-stone-series)
+
