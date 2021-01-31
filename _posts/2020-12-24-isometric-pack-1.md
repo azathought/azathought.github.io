@@ -28,11 +28,11 @@ Includes:
 Check out my [isometric landing page](/isometric/)
 
 ## License info
-My content is a fan work which may contain Wizards of the Coast IP and is shared following the rules of the [Wizards of the Coast Fan Content Policy](https://company.wizards.om/fancontentpolicy)
+Original content is is licened Creative Commons - [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
-Original content is is Creative Commons - [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)
+Note, my content is a fan work which may contain Wizards of the Coast IP and is shared following the rules of the [Wizards of the Coast Fan Content Policy](https://company.wizards.com/fancontentpolicy)
 
-Contains content that is Creative Commons, including :
+Attributions - Contains content from others with linked licenese, including :
 * Ballpoint pen and pencil CC-0 from [lakerice](https://www.blendswap.com/blend/22197)
 * coke CC-BY by [jackho](https://blendswap.com/blend/13061)
 * Dice CC-BY-NC by [lifeenjoyer](https://blendswap.com/blend/16634)
