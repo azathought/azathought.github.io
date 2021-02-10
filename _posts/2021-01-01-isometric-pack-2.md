@@ -36,6 +36,6 @@ Alternatively, I grant the right for online commercial broadcast and replay with
 
 Note, my content is a fan work which may contain Wizards of the Coast IP and is shared following the rules of the [Wizards of the Coast Fan Content Policy](https://company.wizards.com/fancontentpolicy)
 
-Attributions - Contains content from others with linked licenese, including :
+Attributions - Contains content from others with linked license, including :
 * OpenForge 2.0 tiles are CC BY-SA 3.0 by [devonjones](https://www.thingiverse.com/devonjones/collections/openforge-2-dungeon-stone-series)
 

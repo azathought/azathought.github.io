@@ -32,7 +32,7 @@ Original content is is licened Creative Commons - [CC BY-NC 4.0](https://creativ
 
 Note, my content is a fan work which may contain Wizards of the Coast IP and is shared following the rules of the [Wizards of the Coast Fan Content Policy](https://company.wizards.com/fancontentpolicy)
 
-Attributions - Contains content from others with linked licenese, including :
+Attributions - Contains content from others with linked license, including :
 * Ballpoint pen and pencil CC-0 from [lakerice](https://www.blendswap.com/blend/22197)
 * coke CC-BY by [jackho](https://blendswap.com/blend/13061)
 * Dice CC-BY-NC by [lifeenjoyer](https://blendswap.com/blend/16634)
