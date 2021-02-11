@@ -6,6 +6,14 @@ useInNav: true
 ---
 # Isometric Virtual Table Top Guide
 
+## What is Isometric?
+
+[Isometric projection](https://en.wikipedia.org/wiki/Isometric_projection) is a way of representing 3D in 2D space. Unlike perspective drawing, which has vanishing points and converging parallel lines, Isometric represents a fixed orthographic camera angle and is a common architectural drawing style adapted for many of our favorite video role playing games.
+
+{% include image.html url="content/Iso Explain2.jpg" description="explaining isometric" caption="Isometric is different from Perspective! 30 degree angle and equidistant sides" %}
+
+## Who am I?
+
 I'm starting this landing page to collect isometric guides and assets in one place.  Hi! I'm AZATHOUGHT and I love hacking/making isometric art for my online D&D games. It all started when I converted a Tomb of Annihilation jungle crawl to isometric and my table had a magical moment fighting off a Zombie T-Rex rather than fleeing from it. The players used the vertical terrain! This moment cemented my love of isometric play, and I'm not sure I could go back to traditional "top down" online play.
 
 {% include image.html url="posts/2019-10-04-toar-g7-2.jpg" description="catching the isometric bug" caption="October 2018 - defending and isometric temple from a dinosaur big enough to use the vertical terrain!" %}
@@ -23,14 +31,16 @@ I have decided not to start a Patreon. I don't want my hobby turning into an obl
 * [Azathought on Instagram](https://www.instagram.com/azathought_games/)
 
 ## Isometric in Foundry VTT
-Method 1: without special modules, run your grid in a Hex Columns Odd 74 px format. This lines up with a 64 px isometric grid.
+**Method 1 - The Hex Trick**: without special modules, run your grid in a Hex Columns Odd 74 px format. This lines up with a 64 px isometric grid.
 
-Method 2: for full isometric grid support check out the grape_juice-isometics plugin which is currently in early access available through this [patreon](https://www.patreon.com/foundry_grape_juice)
+**Method 2 - Full Isometric**: for full isometric grid support check out the **grape_juice-isometics plugin** which is currently in early access available through this [patreon](https://www.patreon.com/foundry_grape_juice)
 
-Find full settings for maps imported into Foundry VTT in Content pack 1.
+Find full settings recommendations for maps imported into Foundry VTT in Isometirc Content pack 1.
 
 ## Isometric in Roll20
-I find Roll20 works the best running in "gridless" mode and moving your tokens freely.  Find my settings for maps imported into Roll20 in Content pack 1. Measurements will be approximate, but Roll20 handles gridless well.
+I find Roll20 works the best running in "gridless" mode and moving your tokens freely.  Bake your tactical grid into your map images and then size your tokens so the height of the creature is to scale with the grid. Find my settings for maps imported into Roll20 in Content pack 1. Measurements will be approximate, but Roll20 handles gridless well.
+
+Native Isometric grid support doesn't exist in Roll20, but you can vote for it to be considered here: [Roll20 Suggestion Forum](https://app.roll20.net/forum/post/1295021/slug%7D)
 
 ## Isomteric tips Youtube playlists and key videos
 * [Playlist - Isometric Art Tips](https://www.youtube.com/playlist?list=PLwozL5pYIL5RD3-1D9EHuHaUrHg1vb_pz)
