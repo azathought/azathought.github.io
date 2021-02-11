@@ -16,7 +16,7 @@ My tools and techniques have changed over the years and at some point I started 
 I have decided not to start a Patreon. I don't want my hobby turning into an obligation, so I've decided to post links to my content packs here for free:
 * [Isometic Pack 1: 64 px Isometric Template](/isometric-pack-1/)
 * [Isometic Pack 2: OpenForge Tiles Rendered in Isometric](/isometric-pack-2/)
-
+* [Isometic Pack 3: Whirlpool Castle](/isometric-pack-3/)
 
 ## Where to follow me
 * [Azathought on Youtube](https://www.youtube.com/azathought-games)
@@ -43,15 +43,16 @@ I find Roll20 works the best running in "gridless" mode and moving your tokens f
 ## Where to get more isometric content
 There are many artists making isometric assets of diverse styles and levels of detail. Here is a big list of active creators you might want to check out:
 
-* [Blackraven Studios](https://www.patreon.com/BlackravenStudios)
-* [cinderlight](https://www.patreon.com/cinderlight)
-* [Diogo Assuncao](https://www.patreon.com/diogottrpg)
-* [Epic Isometric](https://www.patreon.com/epicisometric)
+* [Blackraven Studios](https://www.patreon.com/BlackravenStudios/posts)
+* [cinderlight](https://www.patreon.com/cinderlight/posts)
+* [Diogo Assuncao](https://www.patreon.com/diogottrpg/posts)
+* [Epic Isometric](https://www.patreon.com/epicisometric/posts)
 * [Galefire RPG](https://galefirerpg.itch.io/)
-* [Isometric Worlds](https://www.patreon.com/isometricworlds)
-* [Stelliadi](https://www.patreon.com/stelliadi_isometric)
-* [Two Brave Puffins](https://www.patreon.com/TwoBravePuffins)
+* [Isometric Worlds](https://www.patreon.com/isometricworlds/posts)
+* [Nova Worlds](https://www.patreon.com/novaworlds/posts)
+* [Stelliadi](https://www.patreon.com/stelliadi_isometric/posts)
+* [Two Brave Puffins](https://www.patreon.com/TwoBravePuffins/posts)
 * [TheFlyingMinotaur](https://www.patreon.com/user?u=7285440)
-* [The Iso Explorer](https://www.patreon.com/theisoexplorer)
+* [The Iso Explorer](https://www.patreon.com/theisoexplorer/posts)
 
 If you'd like to recommend a creator of isometric content, free or paid, reach out and I'd be happy to add to the list above.
