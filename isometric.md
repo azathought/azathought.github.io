@@ -35,7 +35,7 @@ I have decided not to start a Patreon. I don't want my hobby turning into an obl
 
 **Method 2 - Full Isometric**: for full isometric grid support check out the **grape_juice-isometics plugin** which is currently in early access available through this [patreon](https://www.patreon.com/foundry_grape_juice)
 
-Find full settings recommendations for maps imported into Foundry VTT in Isometirc Content pack 1.
+Find full settings recommendations for maps imported into Foundry VTT in Isometric Content pack 1.
 
 ## Isometric in Roll20
 I find Roll20 works the best running in "gridless" mode and moving your tokens freely.  Bake your tactical grid into your map images and then size your tokens so the height of the creature is to scale with the grid. Find my settings for maps imported into Roll20 in Content pack 1. Measurements will be approximate, but Roll20 handles gridless well.
