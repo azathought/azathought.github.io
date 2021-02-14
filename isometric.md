@@ -10,7 +10,7 @@ useInNav: true
 
 [Isometric projection](https://en.wikipedia.org/wiki/Isometric_projection) is a way of representing 3D in 2D space. Unlike perspective drawing, which has vanishing points and converging parallel lines, Isometric represents a fixed orthographic camera angle and is a common architectural drawing style adapted for many of our favorite video role playing games.
 
-{% include image.html url="content/Iso Explain2.jpg" description="explaining isometric" caption="Isometric is different from Perspective! 30 degree angle and equidistant sides" %}
+{% include image.html url="content/Iso Explain3.jpg" description="explaining isometric" caption="Isometric is different from Perspective! 30 degree angle and equidistant sides" %}
 
 ## Who am I?
 
