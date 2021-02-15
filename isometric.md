@@ -37,17 +37,18 @@ I have decided not to start a Patreon. I don't want my hobby turning into an obl
 
 Find full settings recommendations for maps imported into Foundry VTT in Isometric Content pack 1.
 
+### Isomteric tips Youtube playlists and key videos
+* [Playlist - Isometric Art Tips](https://www.youtube.com/playlist?list=PLwozL5pYIL5RD3-1D9EHuHaUrHg1vb_pz)
+* [Video - grape_juice-isometrics early access](https://www.youtube.com/watch?v=2MAp3t3bZjo) | and [update video](https://youtu.be/kA0VECX09ls)
+* [Video - The Hex Trick](https://www.youtube.com/watch?v=AHRvKMuQbDg)
+
 ## Isometric in Roll20
 I find Roll20 works the best running in "gridless" mode and moving your tokens freely.  Bake your tactical grid into your map images and then size your tokens so the height of the creature is to scale with the grid. Find my settings for maps imported into Roll20 in Content pack 1. Measurements will be approximate, but Roll20 handles gridless well.
 
 Native Isometric grid support doesn't exist in Roll20, but you can vote for it to be considered here: [Roll20 Suggestion Forum](https://app.roll20.net/forum/post/1295021/slug%7D)
 
-## Isomteric tips Youtube playlists and key videos
-* [Playlist - Isometric Art Tips](https://www.youtube.com/playlist?list=PLwozL5pYIL5RD3-1D9EHuHaUrHg1vb_pz)
-* [Video - grape_juice-isometrics early access](https://www.youtube.com/watch?v=2MAp3t3bZjo)
-* [Video - The Hex Trick](https://www.youtube.com/watch?v=AHRvKMuQbDg)
 
-## Older Blog Posts
+### Older Blog Posts
 * [Embracing Isometric Roll20](/embracing-isometric-roll20/)
 
 ## Where to get more isometric content
