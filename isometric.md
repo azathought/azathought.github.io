@@ -25,6 +25,7 @@ I have decided not to start a Patreon. I don't want my hobby turning into an obl
 * [Isometic Pack 1: 64 px Isometric Template](/isometric-pack-1/)
 * [Isometic Pack 2: OpenForge Tiles Rendered in Isometric](/isometric-pack-2/)
 * [Isometic Pack 3: Whirlpool Castle](/isometric-pack-3/)
+* [Isometic Pack 4: Lava Monastery](/isometric-pack-4/)
 
 ## Where to follow me
 * [Azathought on Youtube](https://www.youtube.com/azathought-games)
