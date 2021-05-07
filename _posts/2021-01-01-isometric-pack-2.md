@@ -28,7 +28,7 @@ Either using the lasso tool on the asset sheets, or by dragging from the separat
 Check out my [isometric landing page](/isometric/)
 
 ## Dual License info
-This content is dual licensed so folks streaming on the internet don't have to worry about using it in a streamed game.
+Original content is dual licensed so folks streaming on the internet don't have to worry about using it in a streamed game.
 
 Original content is licened Creative Commons - [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
