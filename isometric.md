@@ -66,5 +66,6 @@ There are many artists making isometric assets of diverse styles and levels of d
 * [Two Brave Puffins](https://www.patreon.com/TwoBravePuffins/posts)
 * [TheFlyingMinotaur](https://www.patreon.com/user?u=7285440)
 * [The Iso Explorer](https://www.patreon.com/theisoexplorer/posts)
+* [VividAdventureMaps](https://www.patreon.com/vividadventuremaps/)
 
 If you'd like to recommend a creator of isometric content, free or paid, reach out and I'd be happy to add to the list above.
