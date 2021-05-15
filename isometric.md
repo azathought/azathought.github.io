@@ -32,11 +32,11 @@ I have decided not to start a Patreon. I don't want my hobby turning into an obl
 * [Azathought on Instagram](https://www.instagram.com/azathought_games/)
 
 ## Isometric in Foundry VTT
-**Method 1 - The Hex Trick**: without special modules, run your grid in a Hex Columns Odd 74 px format. This lines up with a 64 px isometric grid.
-
-**Method 2 - Full Isometric**: for full isometric grid support check out the **grape_juice-isometics plugin** which is currently in early access available through this [patreon](https://www.patreon.com/foundry_grape_juice)
+**Method 1 - Full Isometric**: for full isometric grid support check out the **[grape_juice-isometics](https://foundryvtt.com/packages/grape_juice-isometrics) plugin** which is now generally available. Early access features can be accessed  through grape's [patreon](https://www.patreon.com/foundry_grape_juice)
 
 Find full settings recommendations for maps imported into Foundry VTT in Isometric Content pack 1.
+
+**Method 2 - The Hex Trick**: without special modules, run your grid in a Hex Columns Odd 74 px format. This lines up with a 64 px isometric grid.
 
 ### Isomteric tips Youtube playlists and key videos
 * [Playlist - Isometric Art Tips](https://www.youtube.com/playlist?list=PLwozL5pYIL5RD3-1D9EHuHaUrHg1vb_pz)
