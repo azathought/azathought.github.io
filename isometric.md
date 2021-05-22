@@ -57,6 +57,7 @@ Native Isometric grid support doesn't exist in Roll20, but you can vote for it t
 There are many artists making isometric assets of diverse styles and levels of detail. Here is a big list of active creators you might want to check out:
 
 * [Blackraven Studios](https://www.patreon.com/BlackravenStudios/posts)
+* [Cast n Play](https://www.patreon.com/m/6661517/posts)
 * [cinderlight](https://www.patreon.com/cinderlight/posts)
 * [Diogo Assuncao](https://www.patreon.com/diogottrpg/posts)
 * [Epic Isometric](https://www.patreon.com/epicisometric/posts)
