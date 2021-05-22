@@ -63,9 +63,10 @@ There are many artists making isometric assets of diverse styles and levels of d
 * [Isometric Worlds](https://www.patreon.com/isometricworlds/posts)
 * [Nova Worlds](https://www.patreon.com/novaworlds/posts)
 * [Stelliadi](https://www.patreon.com/stelliadi_isometric/posts)
-* [Two Brave Puffins](https://www.patreon.com/TwoBravePuffins/posts)
 * [TheFlyingMinotaur](https://www.patreon.com/user?u=7285440)
 * [The Iso Explorer](https://www.patreon.com/theisoexplorer/posts)
+* [Tokoah's Monster Tokens](https://drive.google.com/drive/folders/1pBQzvWfZc3_G9UUpmYik-GKT70V5SUou)
+* [Two Brave Puffins](https://www.patreon.com/TwoBravePuffins/posts)
 * [VividAdventureMaps](https://www.patreon.com/vividadventuremaps/)
 
 If you'd like to recommend a creator of isometric content, free or paid, reach out and I'd be happy to add to the list above.
