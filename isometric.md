@@ -64,6 +64,7 @@ There are many artists making isometric assets of diverse styles and levels of d
 * [Galefire RPG](https://galefirerpg.itch.io/)
 * [Isometric Worlds](https://www.patreon.com/isometricworlds/posts)
 * [Nova Worlds](https://www.patreon.com/novaworlds/posts)
+* [Rudock's Maps](https://www.patreon.com/posts/gold-mine-51351372)
 * [Stelliadi](https://www.patreon.com/stelliadi_isometric/posts)
 * [TheFlyingMinotaur](https://www.patreon.com/user?u=7285440)
 * [The Iso Explorer](https://www.patreon.com/theisoexplorer/posts)
