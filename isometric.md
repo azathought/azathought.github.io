@@ -26,6 +26,7 @@ I have decided not to start a Patreon. I don't want my hobby turning into an obl
 * [Isometic Pack 2: OpenForge Tiles Rendered in Isometric](/isometric-pack-2/)
 * [Isometic Pack 3: Whirlpool Castle](/isometric-pack-3/)
 * [Isometic Pack 4: Lava Monastery](/isometric-pack-4/)
+* [Isometic Pack 5: Token Collection 1](/isometric-pack-5/)
 
 ## Where to follow me
 * [Azathought on Youtube](https://www.youtube.com/azathought-games)
@@ -40,7 +41,7 @@ Find full settings recommendations for maps imported into Foundry VTT in Isometr
 
 ### Isomteric tips Youtube playlists and key videos
 * [Playlist - Isometric Art Tips](https://www.youtube.com/playlist?list=PLwozL5pYIL5RD3-1D9EHuHaUrHg1vb_pz)
-* [Video - grape_juice-isometrics early access](https://www.youtube.com/watch?v=2MAp3t3bZjo) | and [update video](https://youtu.be/kA0VECX09ls)
+* [Playlist - grape_juice-isometrics tutorials](https://youtube.com/playlist?list=PLwozL5pYIL5SUNamriQGddVB6VrlHvOUz)
 * [Video - The Hex Trick](https://www.youtube.com/watch?v=AHRvKMuQbDg)
 
 ## Isometric in Roll20
