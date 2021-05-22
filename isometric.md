@@ -59,7 +59,6 @@ There are many artists making isometric assets of diverse styles and levels of d
 * [Blackraven Studios](https://www.patreon.com/BlackravenStudios/posts)
 * [Cast n Play](https://www.patreon.com/m/6661517/posts)
 * [cinderlight](https://www.patreon.com/cinderlight/posts)
-* [Diogo Assuncao](https://www.patreon.com/diogottrpg/posts)
 * [Epic Isometric](https://www.patreon.com/epicisometric/posts)
 * [Galefire RPG](https://galefirerpg.itch.io/)
 * [Isometric Worlds](https://www.patreon.com/isometricworlds/posts)
