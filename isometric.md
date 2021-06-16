@@ -27,6 +27,7 @@ I have decided not to start a Patreon. I don't want my hobby turning into an obl
 * [Isometic Pack 3: Whirlpool Castle](/isometric-pack-3/)
 * [Isometic Pack 4: Lava Monastery](/isometric-pack-4/)
 * [Isometic Pack 5: Token Collection 1](/isometric-pack-5/)
+* [Isometic Pack 6: Cathedral of Knowledge](/isometric-pack-6/)
 
 ## Where to follow me
 * [Azathought on Youtube](https://www.youtube.com/azathought-games)
